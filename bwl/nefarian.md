@@ -57,7 +57,7 @@ Forced to spam Blessing of Protection on Nefarian. Keep this ability on cooldown
 Nefarian starts gaining Corrupted Totems, buffing him with Windfury and Fire Nova. Kill totems ASAP.
 * ***Extra Black Trial effect:*** Lightning balls will bounce around and cause arcs in a small area wherever they land. Avoid the arcs.
 
-### Black Trial Changes
+{: .blacktrial }
 The only Black Trial change for Nefarian is the addition of secondary effects to each Class Call, noted above.
 
 ---

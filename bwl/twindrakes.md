@@ -13,9 +13,10 @@ Tanks can get up to 4-5 stacks but must still swap. A third tank will allow the 
 
 Both bosses must die at roughly the same time, or they begin reviving with a small amount of HP and must be put down again. Be sure to call for DPS to slow their damage as needed.
 
-### Black Trial Changes
-*Red light, green light*
 
-Periodically, the bosses will cast [**Stop!**](https://www.wowhead.com/classic/spell=467748/stop), which is like a "red light". It lasts for 5 seconds. While you have the debuff you MUST stop moving, or else you will take 500 shadow damage every 0.5 sec that you're moving. After it falls off, there will be a lull, and then the bosses will instead cast [**Go!**](https://www.wowhead.com/classic/spell=467764/go), which is the exact opposite - for 5 seconds, you must keep moving or else you'll take 500 shadow damage every 0.5 sec that you stand still.
-
-*If running Black, I'd advise swapping at 3 stacks, since a Stop! happening mid-swap could cause you to gain another stack. Having 3 and gaining a 4th stack is not fatal, but having 4 and gaining a 5th stack can be.*
+{: .blacktrial }
+> **Red Light, Green Light**
+> 
+> Periodically, the bosses will cast [**Stop!**](https://www.wowhead.com/classic/spell=467748/stop), which is like a "red light". It lasts for 5 seconds. While you have the debuff you MUST stop moving, or else you will take 500 shadow damage every 0.5 sec that you're moving. After it falls off, there will be a lull, and then the bosses will instead cast [**Go!**](https://www.wowhead.com/classic/spell=467764/go), which is the exact opposite - for 5 seconds, you must keep moving or else you'll take 500 shadow damage every 0.5 sec that you stand still.
+> 
+> *If running Black, I'd advise swapping at 3 stacks, since a Stop! happening mid-swap could cause you to gain another stack. Having 3 and gaining a 4th stack is not fatal, but having 4 and gaining a 5th stack can be.*

@@ -30,7 +30,8 @@ When a player receives BA, they need to *immediately* move to the designated BA 
 
 This fight is not all that difficult - each individual has fairly basic instructions - it's just that these instructions are precise, and are different for each role. The real difficulty of this fight is making judgement calls about when to push or when to back off and die safely. If you play this fight too safe, you actually won't have enough damage from BA'd DPS to kill the boss, but similarly, if your BA'd DPS play too aggressively they can kill all of your DPS early and cause a wipe.
 
-### Black Trial Changes
-When Black is active, whomever has BA with the highest threat will be rooted in place. The strategy mentioned above is basically designed around having a static tank anyway, so this shouldn't really be much of a difference.
-
-*If running Black, the only way to ensure a clean tank swap is if the primary tank dies in position with the secondary tank already having BA and being second on threat (since Vael is not tauntable). Once the primary tank dies and the secondary tank has threat, the entire raid will need to pivot to adjust. Because of how risky this maneuver is, you should do your very best to ensure your MT never dies in a Black pull. Maximize external CD usage and keep a BA'd healer on them, if necessary.*
+{: .blacktrial }
+> When Black is active, whomever has BA with the highest threat will be rooted in place. The strategy mentioned above is basically designed around having a static tank anyway, so this shouldn't really be much of a difference.
+> 
+> {: .tip .fs-3}
+> *If running Black, the only way to ensure a clean tank swap is if the primary tank dies in position with the secondary tank already having BA and being second on threat (since Vael is not tauntable). Once the primary tank dies and the secondary tank has threat, the entire raid will need to pivot to adjust. Because of how risky this maneuver is, you should do your very best to ensure your MT never dies in a Black pull. Maximize external CD usage and keep a BA'd healer on them, if necessary.*

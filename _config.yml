@@ -4,3 +4,25 @@ theme: just-the-docs
 
 url: https://yttrium-tyclief.github.io/sod-guides/
 color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    color: yellow
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  blacktrial:
+    title: Black Trial Changes
+    color: purple
+  tip:
+    title: Tip
+    color: blue

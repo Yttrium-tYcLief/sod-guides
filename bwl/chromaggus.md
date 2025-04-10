@@ -47,22 +47,24 @@ Here's an example [from one log](https://sod.warcraftlogs.com/reports/YdnCamVcxL
 
 ![enter image description here](https://i.imgur.com/L4etXEW.png)
 
-***Tip**: He will continue using these two breaths for your raid instance until the next weekly instance reset. His pick is unique to your raid ID, meaning other raid teams in separate instances during the same week will get a different pair.*
+{: .tip .fs-3}
+*He will continue using these two breaths for your raid instance until the next weekly instance reset. His pick is unique to your raid ID, meaning other raid teams in separate instances during the same week will get a different pair.*
 
 ### Positioning
 Chromaggus is typically tanked in the doorway between his room and the Twin Drakes'. Have the tank grab him and pull him until he's right in the doorway, with the tank staying in the Twin Drakes' room. Melee should then enter Chromaggus' room and stack tightly behind him. Casters should stay off to the side, with most healers grouped with them. There should also be a healer floating around the melee stack to cover their healing as needed. These positions allow all players (besides the main tank) to run behind cover for the various breaths to LoS them. Healers should be positioned to heal the MT whilst still being behind cover, similar to Firemaw.
 
 ![enter image description here](https://i.imgur.com/PxwuiWO.png)
 
-### Black Trial Changes
-On top of the normal alternating breaths described above, roughly once per minute, Chromaggus will do a volley where he fires off all five breaths in quick succession. The timing of this volley is inconsistent - usually the first happens around the 40 second mark, and successive ones happen on average every 60 seconds after that.
-
-***Tip:** The order he casts these in will be unique to your raid ID, which means he will continue casting them all in the same order for each subsequent pull.*
-
-He will cast all 5 breaths as part of this volley, regardless of whichever two he's chosen as his normal breaths. If a normal breath is timed to occur during one of these volleys, it may be skipped, or it may be queued up and come out a few seconds later, but it will not delay his future alternating breath. See below for an example, [pulled from this log](https://sod.warcraftlogs.com/reports/TN6gMbCDHVdrt3k4#fight=45&type=casts&hostility=1&source=57).
-
-![enter image description here](https://i.imgur.com/knFaCJE.png)
-
-With the Black Trial enabled, in addition to the Breath changes, Nefarius will participate in the fight. He will occasionally give Chromaggus commands:
-* [***Fetch!***](https://www.wowhead.com/classic/spell=467883): This first occurs 20 seconds into the fight, and again every 40 seconds after that. When commanded, Chromaggus will grab a random player and hold onto them for a few seconds before releasing them.
-* [***Roll Over!***](https://www.wowhead.com/classic/spell=468598): Leading up to the 50% health mark, Nefarius will command Chromaggus to roll over, and around 50% he finally does. This causes the arena to shake and [meteors to fall down](https://www.wowhead.com/classic/spell=468199/roll-over), which must be dodged (like Golemagg).
+{: .blacktrial }
+> On top of the normal alternating breaths described above, roughly once per minute, Chromaggus will do a volley where he fires off all five breaths in quick succession. The timing of this volley is inconsistent - usually the first happens around the 40 second mark, and successive ones happen on average every 60 seconds after that.
+> 
+> {: .tip .fs-3}
+> *The order he casts these in will be unique to your raid ID, which means he will continue casting them all in the same order for each subsequent pull.*
+> 
+> He will cast all 5 breaths as part of this volley, regardless of whichever two he's chosen as his normal breaths. If a normal breath is timed to occur during one of these volleys, it may be skipped, or it may be queued up and come out a few seconds later, but it will not delay his future alternating breath. See below for an example, [pulled from this log](https://sod.warcraftlogs.com/reports/TN6gMbCDHVdrt3k4#fight=45&type=casts&hostility=1&source=57).
+> 
+> ![enter image description here](https://i.imgur.com/knFaCJE.png)
+> 
+> With the Black Trial enabled, in addition to the Breath changes, Nefarius will participate in the fight. He will occasionally give Chromaggus commands:
+> * [***Fetch!***](https://www.wowhead.com/classic/spell=467883): This first occurs 20 seconds into the fight, and again every 40 seconds after that. When commanded, Chromaggus will grab a random player and hold onto them for a few seconds before releasing them.
+> * [***Roll Over!***](https://www.wowhead.com/classic/spell=468598): Leading up to the 50% health mark, Nefarius will command Chromaggus to roll over, and around 50% he finally does. This causes the arena to shake and [meteors to fall down](https://www.wowhead.com/classic/spell=468199/roll-over), which must be dodged (like Golemagg).

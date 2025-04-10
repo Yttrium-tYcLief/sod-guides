@@ -35,5 +35,5 @@ Be sure to run decent fire resist for this fight! Paladins should all be on Fire
 
 MTs should run as much FR as they can within reason, since it's hard for them to reset Flame Buffet stacks, but with the Odyssey strat you can have the OT hold threat temporarily in the MT's position while the MT runs around the corner to drop stacks. Just ensure you do this outside of any Wing Buffet window or things could get messy.
 
-### Black Trial Changes
+{: .blacktrial }
 10 seconds into the fight, Firemaw will cast [**Fulmination**](https://www.wowhead.com/classic/spell=467611/fulmination), which is a raid-wide 500 nature damage. From that point on, he'll cast it again every 30 seconds. Just heal through it. Don't forget that since this is raid damage, this is another way (alongside Flame Buffet) to gain Static charges.

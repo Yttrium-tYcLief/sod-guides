@@ -4,9 +4,7 @@ title: Blackwing Lair
 ---
 
 # Blackwing Lair Guide
-
-### *These guides were based on SoM strategies from memory, combined with SoD PTR testing. They are being actively updated with changes from the launch of Season of Discovery's BWL.*
-(last updated 9/29/24)
+*(last updated 9/29/24)*
 
 BWL is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the more likely you are to kill each boss, but the less loot each player will receive on average.
 
