@@ -8,9 +8,12 @@ subtitle: Boss 1
 
 # [Balnazzar](https://www.wowhead.com/classic/npc=240811/balnazzar), Boss 1
 
+{: .important .fs-3}
+Before pulling Balnazzar, it's highly recommended to position yourself on the opposite side of the battlefield, at the overworld gate entrance to Tyr's Hand. Pull him from this position and drag him as far as you're able to, because when triggering Phase 2, he has to walk to a predefined location and only begins doing so at 70%. **Any additional damage you can do during this time is free and will shorten Phase 2**. Ranged should position themselves as close to the fountain as they can while still being able to hit him during Phase 1 to ensure maximum uptime during the transition.
+
 Balnazzar has a number of mechanics which persist through every phase of the fight:
 
-[Screeching Terror](https://www.wowhead.com/classic/npc=243007/screeching-terror) adds will periodically spawn, cleave these down, focus them if you have multiple.
+[Screeching Terror](https://www.wowhead.com/classic/npc=243007/screeching-terror) adds will periodically spawn. Cleave these down, focus them if you have many.
 
 Players will occasionally receive [Carrion Swarm](https://www.wowhead.com/classic/spell=1234584/carrion-swarm) debuff - this DoT will damage nearby players close to you. Lightly spread to reduce stacks and take less damage. Alternatively, just have infected players stand out entirely. If you receive the DoT from another player, spread further for a few seconds for it to fall off.
 
@@ -19,7 +22,9 @@ Players will occasionally receive [Carrion Swarm](https://www.wowhead.com/classi
 ### Phase 2
 Begins at 70%, ends at 40%.
 
-Balnazzar will fly up and begin circling the area. He will cast [Suppressing Darkness](https://www.wowhead.com/classic/spell=1231777/suppressing-darkness) on the whole raid, silencing everyone.
+Balnazzar will run to the easternmost corner of the central fountain before flying up into the air and circling the area.
+
+Starting with Phase 2 and for the rest of the fight, he emanates an aura called [Suppressing Darkness](https://www.wowhead.com/classic/spell=1231777/suppressing-darkness) on the whole raid, silencing everyone.
 
 Four [Scarlet Lightbearers](https://www.wowhead.com/classic/npc=243076/scarlet-lightbearer) will spawn around the fountain and channel [Light's Hope](https://www.wowhead.com/classic/spell=1232177/lights-hope), creating a holy zone near them. This effect will make nearby players immune to the silence of Suppressing Darkness, however it will also enrage the Screeching Terror adds, which will in turn cause Light's Hope to stop working.
 
