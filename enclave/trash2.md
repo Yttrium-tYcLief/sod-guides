@@ -5,7 +5,7 @@ parent: Scarlet Enclave
 nav_order: 3
 ---
 
-You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape. Talk to the Night Elf near the Barracks exit - they will tell you which of the next minibosses are empowered.
+You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape. Talk to the Night Elf named Fydriel near the Barracks exit - he will tell you which of the next minibosses are empowered.
 
 Fight your way outside, and fight your way to the town square. You'll need to fight all 6 listed below in order to spawn the next boss. 
 
