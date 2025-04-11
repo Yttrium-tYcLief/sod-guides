@@ -14,7 +14,7 @@ Balnazzar spawns a bunch of illusions similar to panthers in Hakkar HM. Don't bo
 
 Players will occasionally receive Carrion Swarm debuff - this DoT will damage you and nearby players based on how many players are directly around you. Lightly spread to reduce stacks and take less damage.
 
-PHASE 2: Begins at 70%, ends at 40%. Very similar to Onyxia air phase. Balnazzar will fly up and begin circling the area. He will cast [Suppressing Darkness](https://www.wowhead.com/classic/spell=1231777/suppressing-darkness) on the whole raid, silencing everyone.
+PHASE 2: Begins at 70%, ends at 40%. Balnazzar will fly up and begin circling the area. He will cast [Suppressing Darkness](https://www.wowhead.com/classic/spell=1231777/suppressing-darkness) on the whole raid, silencing everyone.
 
 Four [Scarlet Lightbearers](https://www.wowhead.com/classic/npc=243076/scarlet-lightbearer) will spawn around the fountain and channel [Light's Hope](https://www.wowhead.com/classic/spell=1232177/lights-hope), creating a holy zone near them. This effect will make nearby players immune to the silence of Suppressing Darkness, however it will also enrage the Screeching Terror adds, which will in turn cause Light's Hope to stop working.
 
@@ -24,4 +24,6 @@ If a zone stops working, ranged and healers will need to rotate to a new zone.
 
 PHASE 3: Begins at 40%.
 
-When Balnazzar lands, Light's Hope will stop working. Balnazzar will kill nearby Scarlet Lightbringers - the MT should drag him around to kill them ASAP, because when they die, [Infernals](https://www.wowhead.com/classic/npc=243011/infernal) will spawn in their place. The Infernals have [Infernal Presence](https://www.wowhead.com/classic/spell=1232187/infernal-presence) which will gently damage nearby players but makes those players immune to Suppressing Darkness. They basically replace the Lightbringers in phase 3. Tank them near the boss and stack on them as needed. Boss dies at 5%.
+When Balnazzar lands, MT pick him up immediately. At this point, [Infernals](https://www.wowhead.com/classic/npc=243011/infernal) will begin spawning. They spawn on the Lightbringers over time and kill them. However, they have [Infernal Presence](https://www.wowhead.com/classic/spell=1232187/infernal-presence) which will gently damage nearby players but makes those players immune to Suppressing Darkness. Tank them near the boss and have melee stack on them as needed. Casters/healers should stay in the Lightbringer zones that are still up until the NPCs die. Then those players need to move to any that are still alive, or infernals if necessary.
+
+Boss dies at 5%.
