@@ -23,14 +23,14 @@ This fight is sort of an event, with a hold-out against waves of adds before the
 
 Occasionally, the leaders of these armies will call for a special mechanic. Only one of these mechanics will occur at a time. Only the 4 leaders you left alive (so, 4 that flee, compared to the 2 you killed) will be involved in the fight. Their mechanics are as follows:
 
-* Shield Warden Stein will send waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each line; run to the gaps, or take damage when they run into you.
-* Knight-Captain Fratley will send waves of Scarlet Cavalry to charge at you. This is similar to the Scarlet Infantry, but you will be greatly knocked back if one hits you. There are more gaps but these move much faster.
-* Arcanist Hilda will summon a giant meteor on the battlefield. **This must be soaked.** Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.
-* Cannon Mistress Lind will order her artillery to bombard the area. These are choreographed as large red swirls on the ground; avoid these or take a lot of damage. They also leave an AoE ember for a short while after impact that deals a ton of residual damage.
-* Bowmaster Puck commands his archers to rain hell down on your raid. This is effectively just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.
-* Cardinal Stiltz and his priests will cast Confession on the raid. This seems to be a chain lightning that scales its damage based on the distance between players that it bounces to. Maybe stack? More info needed.
+* **Shield Warden Stein** will send waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each line; run to the gaps, or take damage when they run into you.
+* **Knight-Captain Fratley** will send waves of Scarlet Cavalry to charge at you. This is similar to the Scarlet Infantry, but you will be greatly knocked back if one hits you. There are more gaps but these move much faster.
+* **Arcanist Hilda** will summon a giant meteor on the battlefield. <ins>This must be soaked.</ins> Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.
+* **Cannon Mistress Lind** will order her artillery to bombard the area. These are choreographed as large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.
+* **Bowmaster Puck** commands his archers to rain hell down on your raid. This is effectively just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.
+* **Cardinal Stiltz** and his priests will cast Confession on the raid. This seems to be a chain lightning that scales its damage based on the distance between players that it bounces to. Maybe stack? More info needed.
 
-After awhile, Beatrix herself will become active.
+After roughly 2:20, Beatrix herself will become active.
 
 She has a number of abilities:
 
