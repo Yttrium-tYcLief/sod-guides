@@ -52,6 +52,8 @@ At this point, [Infernal](https://www.wowhead.com/classic/npc=243011/infernal) w
 
 Tank Infernals near the boss and have melee stack on them as needed. Casters/healers should stay in the holy zones that are still up until the NPCs die. Then those players need to move to any that are still alive, or infernals if necessary.
 
+In this phase, most of your damage should be on the boss, but you still need to keep up with Screeching Terror spawns until the boss is around 15% - at that point, focus him and burn the remainder.
+
 If all 4 Lightbearers die, the boss will enrage. Avoid this at all costs.
 
 Balnazzar dies at 5% with a long roleplay. Anyone dead will not see all of the RP.
