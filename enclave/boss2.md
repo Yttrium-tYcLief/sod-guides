@@ -80,11 +80,14 @@ She has a number of abilities:
 ### Charge
 Beatrix randomly charges at players. This will knock them back.
 
-### Stock Break
-She will cast this periodically, which hits 3 players for 95% of their health. Just keep the raid topped up and be ready to heal quickly after it goes out. If it hits a player below 95%, they will be reduced to 1 HP. It does not kill them by itself.
+### [Unwavering Blade](https://www.wowhead.com/classic/spell=1232389/unwavering-blade)
+She'll cast this on the tank periodically, dramatically increasing the damage they take. Either use defensives or tank-swap. Lasts 25 seconds.
 
-### Berserk
-This is the exact same Berserk spell that Battleguard Sartura from AQ40 and Thaddius from Naxxramas cast. She gains +500 physical damage and +150% movement speed for the rest of the fight. She casts this spell at 62.5% health.
+### [Stock Break](https://www.wowhead.com/classic/spell=1232637/stock-break)
+She will cast this periodically, which hits 3 players for 95% of their health. Just keep the raid topped up and be ready to heal quickly after it goes out. If it hits a player below 95%, they will be reduced to 1 HP. It does not kill them by itself. This might be interruptable - [need confirmation](https://www.reddit.com/r/classicwow/comments/1jwmob0/scarlet_enclave_raid_guide_textonly/).
+
+### [Rose's Thorn](https://www.wowhead.com/classic/spell=1232390/roses-thorn)
+This puts a bleed on a player until they're healed to full, similar to BWL Red Trial.
 
 The boss dies at 0%.
 
