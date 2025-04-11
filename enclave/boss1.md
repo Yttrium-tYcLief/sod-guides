@@ -34,7 +34,7 @@ It's not a bad idea to run 4 tanks and position one at each holy zone to ensure 
 Periodically he will also cast [Circle of Domination](https://www.wowhead.com/classic/spell=437983/circle-of-domination), which mind controls.
 
 {: .highlight .fs-3}
-The exact mechanics of how this works are not fully determined yet, but it seems like there's a 6 second incubation period followed by a 15 second charm if it succeeds when it elapses. Being in or out of the Light doesn't seem to affect the chance of success; it's currently suspected that turning to face away from the boss may ensure resisting the MC, so maybe try that? [Let me know how this works for you.](https://www.reddit.com/r/classicwow/comments/1jwmob0/scarlet_enclave_raid_guide_textonly/)
+The exact mechanics of how the MC works are not fully determined yet, but it seems like there's a 6 second incubation period followed by a 15 second charm if it succeeds when it elapses. Being in or out of the Light doesn't seem to affect the chance of success; it's currently suspected that turning to face away from the boss may ensure resisting the MC, so maybe try that? [Let me know how this works for you](https://www.reddit.com/r/classicwow/comments/1jwmob0/scarlet_enclave_raid_guide_textonly/). **What is known is that you can pop a LIP before the 6-second timer elapses in order to guarantee an MC resist.**
 
 You can comfortably sit in Phase 2 for awhile, so before pushing the boss into the next phase, **you should focus down adds to ensure you have as few as possible when starting Phase 3**.
 
