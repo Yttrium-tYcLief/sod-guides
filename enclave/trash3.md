@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trash (before Boss 6)
+title: Trash (before Boss 3/4/5)
 parent: Scarlet Enclave
 nav_order: 5
 ---
@@ -9,7 +9,7 @@ After killing Beatrix, the next area opens up north of New Avalon. The next 3 bo
 
 Boss numbering is based on Warcraftlogs - it may not make sense to pull them in this order for your raid group.
 
-![Trash (before Boss 6)](/enclave/trash3.jpg)
+![Trash (before Boss 3/4/5)]({{site.url}}/enclave/trash3.jpg)
 
 There's a lot of new types of enemies in the next trash packs:
 

@@ -26,4 +26,4 @@ A miniboss named Captain Karnwield spawns in front of the Scarlet Cathedral when
 
 After Karnwield dies, enter the Cathedral and confront Boss 1. They run out of the Cathedral and go to the Fountain in central Tyr's Hand. The first boss fight occurs there. **When they spawn, they'll kill any remaining trash.**
 
-![Trash (before Boss 1)](/enclave/enclave-trash1.jpg)
+![Trash (before Boss 1)]({{site.url}}/enclave/trash1.jpg)

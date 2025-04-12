@@ -35,7 +35,7 @@ Lightly spread to reduce stacks and take less damage. Alternatively, just have s
 ### Phase 2 (Air Phase)
 Begins at 70%, ends at 40%.
 
-![Balnazzar, Phase 2](/enclave/boss1-phase2.jpg)
+![Balnazzar, Phase 2]({{site.url}}/enclave/boss1-phase2.jpg)
 
 Balnazzar will run to the easternmost corner of the central fountain before flying up into the air and circling the area.
 
@@ -63,7 +63,7 @@ You can comfortably sit in Phase 2 for awhile, so before pushing the boss into t
 ### Phase 3
 Begins at 40%, ends at 5%.
 
-![Balnazzar, Phase 3](/enclave/boss1-phase3.jpg)
+![Balnazzar, Phase 3]({{site.url}}/enclave/boss1-phase3.jpg)
 
 When Balnazzar lands, the MT should pick him up immediately, just like Onyxia, as casters will probably be at the top of his threat table. He will always land at the same spot, near the easternmost holy zone he originally flew off from, so pre-position there.
 
