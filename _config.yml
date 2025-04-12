@@ -26,3 +26,6 @@ callouts:
   tip:
     title: Tip
     color: blue
+  example:
+    title: Example
+    color: green
