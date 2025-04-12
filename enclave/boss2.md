@@ -16,7 +16,7 @@ When pulling this boss, everyone must run towards her. Scarlet soldiers will qui
 ## Phase 1
 Lasts 2:20.
 
-Before the boss becomes enters the fight, you must hold out against waves of enemies. The most important thing in this fight is avoiding mechanics and keeping pace with the spawn rate of adds. This fight behaves sort of like vanilla Fankriss, where you should be focused on adds above all else for the entire fight. **All add spawns and mechanics continue occurring even when the boss is active.** The armies are:
+Before Beatrix enters the fight, you must hold out against waves of enemies. The most important thing in this fight is avoiding mechanics and keeping pace with the spawn rate of adds. This fight behaves sort of like AQ40 Fankriss, where you should be focused on adds above all else for the entire fight. **All add spawns and mechanics continue occurring while the boss is active.** The armies are:
 
 * *A squadron of Scarlet Infantry, led by* **Shield Warden Stein**
 * *A battalion of Scarlet Cavalry, led by* **Knight-Captain Fratley**
@@ -25,7 +25,7 @@ Before the boss becomes enters the fight, you must hold out against waves of ene
 * *A platoon of Scarlet Archers, led by* **Bowmaster Puck**
 * *A clergy of Scarlet Priests, led by* **Cardinal Stiltz**
 
-Occasionally, the leaders of these armies will call for a special mechanic. Only one of these mechanics will occur at a time. Only the 4 leaders you left alive (so, 4 that flee, compared to the 2 you killed) will be involved in the fight. Their mechanics are as follows:
+Occasionally, the leaders of these armies will call for a special mechanic, like BWL Nefarian class calls. Only one of these calls will occur at a time. Only the 4 leaders that fled during the prior trash will be involved in the fight and be able to call. These mechanics are as follows:
 
 {% comment %}
 TODO: Make this tabbed.
@@ -85,7 +85,9 @@ TODO: Make this tabbed.
 
 After roughly 2:20, Beatrix herself will become active.
 
-She has a number of abilities:
+She's a fairly simple tank and spank, but the real challenge comes from keeping up with fresh adds and avoiding the call mechanics.
+
+She has a few abilities:
 
 ### Charge
 Beatrix randomly charges at players. This will knock them back, like Lava Surgers in Molten Core.
