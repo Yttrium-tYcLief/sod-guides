@@ -16,7 +16,7 @@ Before pulling Balnazzar, it's highly recommended to position yourself on the op
 ### Phase 1
 Begins at 100%, ends at 70%.
 
-![Balnazzar, Phase 1](/enclave/boss1-phase1.jpg)
+![Balnazzar, Phase 1]({{site.url}}/enclave/boss1-phase1.jpg)
 
 Balnazzar has a number of mechanics which persist through every phase of the fight:
 
