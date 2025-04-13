@@ -11,7 +11,9 @@ Boss numbering is based on Warcraftlogs - it may not make sense to pull them in 
 
 ![Trash (before Boss 3/4/5)]({{site.url}}/enclave/trash3.jpg)
 
+{: .highlight .fs-3}
+Be aware that Boss 5 patrols up and down the road.
+
 There's a lot of new types of enemies in the next trash packs:
 
 * **Lightforged Whelp**: When these die, they explode in a Holy Nova. Ideally drag them out of the raid before they die, and do not kill multiple together or you'll kill some players. *Basically, ZG Bat Riders.*
-* **Scarlet Cleric**: These are priests that will heal allies and attack offensively using Smite and Mind Blast. Uniquely, though, they have a spell called Holy Radiance that will do immense damage in an AoE around them. It has a 2 second cast time. Interrupt this or risk wipes.
