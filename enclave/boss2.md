@@ -9,6 +9,7 @@ subtitle: Boss 2
 This guide is still a work in progress.
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
+*Last updated: 4/14/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
