@@ -17,8 +17,13 @@ subtitle: Boss 1
 {: .important .fs-3}
 Previously, it was worth it to try and pull him far away so that you'd get free damage on him as he ran over to transition from phase 1 to 2. However, his movement speed was silently buffed during launch week and it's no longer worth doing this. You lose far more damage trying to position him in the first place than you gain by damaging him for those few seconds for free, and it also forces all of your DPS to adjust to new positions rather than allowing them to set up in those positions in the first place. Prior to that change, you'd gain 20-30 seconds of free damage; now you gain like 5, and he outruns melee so your damage is halved during those 5 too.
 
-{: .highlight .fs-4}
-Balnazzar has an 8 minute berserk timer that acts as a soft DPS check for this fight.
+{: .highlight .fs-5}
+> Balnazzar has a 10 minute berserk timer that acts as a soft DPS check for this fight.
+> 
+> {: .new-title .fs-3}
+> > NEW - Changed 4/14/25
+> >
+> > This berserk timer was increased on 4/14/25, previously 8 minutes.
 
 ### Phase 1
 Begins at 100%, ends at 70%.
@@ -27,9 +32,9 @@ Begins at 100%, ends at 70%.
 
 Balnazzar has a number of mechanics which persist through every phase of the fight:
 
-[Screeching Terror](https://www.wowhead.com/classic/npc=243007/screeching-terror) adds will periodically spawn. Cleave these down, focus them if you have many. They cast an AoE fear around them, which is why it's important to keep on top of these. However, <ins>the fear cast is kickable</ins>, and kicking it is more important than DPSing.
+[Screeching Terror](https://www.wowhead.com/classic/npc=243007/screeching-terror) adds will periodically spawn. Cleave these down, focus them if you have many. They cast [Screeching Fear](https://www.wowhead.com/classic/spell=1231885/screeching-fear) around them, which is why it's important to keep on top of these. However, <ins>the fear cast is kickable</ins>, and kicking it is more important than DPSing. Cast time roughly 2.5sec.
 
-Balnazzar will occasionally cast [Carrion Swarm](https://www.wowhead.com/classic/spell=1234584/carrion-swarm) on players within 15-20 yards of him. Anyone infected with it will damage all other players within a few yards of them.
+Balnazzar himself will occasionally cast [Carrion Swarm](https://www.wowhead.com/classic/spell=1234584/carrion-swarm) on players within 15-20 yards of him. Anyone infected with it will damage all other players within a few yards of them.
 
 {: .note-title .fs-3}
 > Carrion Swarm Mechanics

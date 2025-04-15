@@ -35,10 +35,10 @@ TODO: Make this tabbed.
 {: .highlight .fs-3}
 >**Cardinal Stiltz**
 >
->The Cardinal and his priests will cast Confession on the raid. This seems to be a chain lightning that scales its damage based on the distance between players that it bounces to.
+>The Cardinal and his priests will cast Confession on the raid. This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.
 >
 >{: .tip .fs-3}
->Maybe stack? More info needed. As of 4/11 this ability is extremely powerful and easily capable of wiping your raid; I would highly suggest banning Stiltz from this encounter for now.
+>This is similar to [Gruul's](https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller) [Shatter](https://www.wowhead.com/tbc/spell=33654/shatter) from TBC.
 
 {: .highlight .fs-3}
 >**Bowmaster Puck**
@@ -51,10 +51,10 @@ TODO: Make this tabbed.
 {: .highlight .fs-3}
 > **Shield Warden Stein**
 > 
-> She will send 4 waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each line; run to the gaps, or take damage when they run into you.
+> She will send 4 waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each line. Each time one of the Infantry collides with you, you'll receive a stack of [Scarlet Phalanx](https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx), a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.
 > 
 > {: .tip .fs-3}
-> The damage this mechanic puts out is not very punishing. Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.
+> Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.
 
 {: .highlight .fs-3}
 >**Arcanist Hilda**
@@ -62,7 +62,7 @@ TODO: Make this tabbed.
 >The Arcanist will summon a giant meteor on the battlefield. <ins>This must be soaked.</ins> Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.
 >
 >{: .tip .fs-3}
->The meteor's location is completely random and there is no avoiding this mechanic. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic. Be aware that various other mechanics can knock you out of the impact zone just before it hits, so maybe wait to drag Beatrix into the zone until just beforehand.
+>The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.
 
 {: .highlight .fs-3}
 >**Knight-Captain Fratley**
@@ -78,20 +78,22 @@ TODO: Make this tabbed.
 >She will order her artillery to bombard the area. These are choreographed as 5 large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.
 >
 >{: .tip .fs-3}
->This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one.
+>This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one. **That said, the radius is *slightly* larger than the visual.**
 
 ---
 
 ## Phase 2
 
-After roughly 2:20, Beatrix herself will become active.
+Beatrix enters the fight after 2 waves of adds have spawned and 2 class calls have been performed.
+
+{: .new-title .fs-3}
+> NEW - Changed 4/14/25
+>
+> This is far sooner than the previous 2:20 timer.
 
 She's a fairly simple tank and spank, but the real challenge comes from keeping up with fresh adds and avoiding the call mechanics.
 
 She has a few abilities:
-
-### Charge
-Beatrix randomly charges at players. This will knock them back, like Lava Surgers in Molten Core.
 
 ### [Unwavering Blade](https://www.wowhead.com/classic/spell=1232389/unwavering-blade)
 She'll cast this on the tank periodically, dramatically increasing the damage they take. Either use defensives or tank-swap. Lasts 25 seconds.
@@ -100,7 +102,7 @@ She'll cast this on the tank periodically, dramatically increasing the damage th
 She will cast this periodically, hitting 3 players for 95% of their health. Just keep the raid topped up and be ready to heal quickly after it goes out. If it hits a player below 95%, they will be reduced to 1 HP. It does not kill them by itself. This might be interruptable - [need confirmation](https://www.reddit.com/r/classicwow/comments/1jwmob0/scarlet_enclave_raid_guide_textonly/).
 
 ### [Rose's Thorn](https://www.wowhead.com/classic/spell=1232390/roses-thorn)
-This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. Might be applied to multiple players in an AoE, unsure.
+She will charge into players, and afflict Rose's Thorn on her target. This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. The bleed doesn't deal too much damage as long as it's not left unchecked.
 
 **The boss dies at 0%.**
 
