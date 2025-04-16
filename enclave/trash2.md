@@ -4,7 +4,7 @@ title: Trash (before Boss 2)
 parent: Scarlet Enclave
 nav_order: 3
 ---
-*Last updated: 4/14/25*
+*Last updated: 4/15/25*
 
 You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape. 
 

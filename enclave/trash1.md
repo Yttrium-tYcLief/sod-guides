@@ -4,7 +4,7 @@ title: Trash (before Boss 1)
 parent: Scarlet Enclave
 nav_order: 1
 ---
-*Last updated: 4/14/25*
+*Last updated: 4/15/25*
 
 At the very start of the raid you'll see a flight master. This is similar to Molten Core's teleportation system; it will allow you to quick travel between future checkpoints as you unlock them.
 

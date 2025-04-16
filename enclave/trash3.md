@@ -4,7 +4,7 @@ title: Trash (before Boss 3/4/5)
 parent: Scarlet Enclave
 nav_order: 5
 ---
-*Last updated: 4/14/25*
+*Last updated: 4/15/25*
 
 After killing Beatrix, the next area opens up north of New Avalon. The next 3 bosses may all be fought in any order you wish, but all 3 must be killed in order to progress to the next zone of the raid.
 
