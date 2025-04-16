@@ -96,10 +96,10 @@ She's a fairly simple tank and spank, but the real challenge comes from keeping 
 She has a few abilities:
 
 ### [Unwavering Blade](https://www.wowhead.com/classic/spell=1232389/unwavering-blade)
-She'll cast this on the tank periodically, dramatically increasing the damage they take. Either use defensives or tank-swap. Lasts 25 seconds.
+She'll cast this on the tank periodically, dramatically increasing the damage they take. Tank-swap immediately. Lasts 25 seconds.
 
 ### [Stock Break](https://www.wowhead.com/classic/spell=1232637/stock-break)
-She will cast this periodically, hitting 3 players for 95% of their health. Just keep the raid topped up and be ready to heal quickly after it goes out. If it hits a player below 95%, they will be reduced to 1 HP. It does not kill them by itself. This might be interruptable - [need confirmation](https://www.reddit.com/r/classicwow/comments/1jwmob0/scarlet_enclave_raid_guide_textonly/).
+She targets 3 players and hits them for 95% of their maximum health, reducing them to 1 health if they're below 95% health beforehand but never killing them. These players are then stunned for a few seconds, but made temporarily invulnerable. Heal them up before the invulnerability wears off.
 
 ### [Rose's Thorn](https://www.wowhead.com/classic/spell=1232390/roses-thorn)
 She will charge into players, and afflict Rose's Thorn on her target. This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. The bleed doesn't deal too much damage as long as it's not left unchecked.
