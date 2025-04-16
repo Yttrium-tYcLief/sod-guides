@@ -15,10 +15,10 @@ Boss numbering is based on Warcraftlogs - it may not make sense to pull them in 
 {: .highlight .fs-3}
 Be aware that Boss 5 patrols up and down the road.
 
-There's a lot of trash in this region. To recap the old ones:
+There's a lot of trash in this region. Mob types from Tyr's Hand will show up again, but ones from New Avalon will not. To recap:
 
-* **Scarlet Cleric**: These use Holy Radiance, a massive AoE burst that must be interrupted or it can wipe the raid.
-* **Scarlet Knight**: These use Paladin auras. Melee watch their health when Retribution Aura is active. They also Disarm.
+* **Scarlet Cleric**: These use Holy Radiance, a massive AoE burst that <ins>must be interrupted</ins> or it can wipe the raid.
+* **Scarlet Knight**: These use Ret Aura, so melee watch your thorn damage. They also Disarm.
 * **Scarlet Paladins**: These use Consecrate, avoid it.
 * **Scarlet Praetorians**: These use Whirlwind, avoid it.
 
