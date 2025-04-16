@@ -17,7 +17,7 @@ The first boss is inside the Cathedral, but the door is locked.
 * **Scarlet Praetorians** use Whirlwind - avoid. The range of Whirlwind is shown with a blue outline around them, roughly 15 yards. Cannot be kicked, simply run out.
 * **Scarlet Paladins** throw down a red Consecrate. Massive AoE damage over time, avoid just like whirlwind. This uses the Retail visual so it's easier to distinguish from friendly Consecrates.
 * **Scarlet Cleric** are priests that will heal allies and attack offensively using Smite and Mind Blast. Uniquely, though, they have a spell called Holy Radiance that will do immense damage in an AoE around them. It has a 2 second cast time. <ins>Interrupt this or risk wipes</ins>.
-* **Scarlet Knight** are paladins that use their auras. Ret aura does loads of thorns damage. Devo aura grants +2490 spell resist.
+* **Scarlet Knight** are paladins that use their auras. Ret aura does loads of thorns damage. Devo aura grants +2490 spell resist. They can also [Disarm](https://www.wowhead.com/classic/spell=6713/disarm).
 
 There are minibosses (Captains) littered about. You do not have to kill all of the Captains to summon the first boss, but if you decide to, the Captains are Paladins - they change Pally auras just like the Scarlet Knights.
 

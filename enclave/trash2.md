@@ -26,6 +26,8 @@ These leaders are:
 5. **Knight-Captain Fratley**, in front of the Scarlet Hold Barracks
 6. **Cannon Mistress Lind**, in the Forge
 
+When leaders have been defeated, any remaining hostile mobs from their respective areas will flee, including ones you're already in combat with. The lone exception is Scarlet Praetorians, which will never flee. Be aware of Praetorian packs still being posted up in areas you expect to be safe.
+
 ![Trash (before Boss 2)]({{site.url}}/enclave/trash2.jpg)
 
 ### Once all 6 have been fought (2 are dead and 4 have fled), a large Scarlet regiment will spawn in the town square, coming from the direction of Tyr's Hand. Approach it to begin the Boss 2 encounter.

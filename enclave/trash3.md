@@ -17,11 +17,13 @@ Be aware that Boss 5 patrols up and down the road.
 
 There's a lot of trash in this region. To recap the old ones:
 
-* **Scarlet Praetorians**: These use Whirlwind, avoid it.
+* **Scarlet Cleric**: These use Holy Radiance, a massive AoE burst that must be interrupted or it can wipe the raid.
+* **Scarlet Knight**: These use Paladin auras. Melee watch their health when Retribution Aura is active. They also Disarm.
 * **Scarlet Paladins**: These use Consecrate, avoid it.
-* **Scarlet Cleric**: These use Holy Radiance, which must be interrupted or it can wipe the raid.
-* **Scarlet Knight**: These use Paladin auras. Melee watch their health when Retribution Aura is active.
+* **Scarlet Praetorians**: These use Whirlwind, avoid it.
 
 However, there are also some new ones:
 
-* **Lightforged Whelp**: When these die, they explode in a Holy Nova. Ideally drag them out of the raid before they die, and do not kill multiple together or you'll kill some players. *Basically, ZG Bat Riders.*
+* **[Lightgorged Whelp](https://www.wowhead.com/classic/npc=245070/lightgorged-whelp)**: When these die, they explode in an [Unstable Detonation](https://www.wowhead.com/classic/spell=1232332/unstable-detonation). The range cannot be avoided, just make sure you kill them one at a time and not all at once so your healers have time to compensate. Deals 1k raid-wide damage per explosion.
+* **[Scarlet Executioner](https://www.wowhead.com/classic/npc=240797/scarlet-executioner)**: Mortal Strikes the tank. Flagged as rare but not actually rare.
+* **[Scarlet Spellbinder](https://www.wowhead.com/classic/npc=240788/scarlet-spellbinder)**: These cast Frost Nova, which can trap you inside of Praetorian Whirlwinds. They can also summon a [Frozen Core](https://www.wowhead.com/classic/npc=243337/frozen-core), which [impacts the ground after 8 seconds](https://www.wowhead.com/classic/spell=1232770/hailstone), sort of like Sapphiron's mechanic. This deals a massive amount of Frost damage in a short 10 yard radius, so run away from it.
