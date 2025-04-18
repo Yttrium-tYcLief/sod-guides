@@ -2,7 +2,7 @@
 layout: post
 title: Boss 8
 parent: Scarlet Enclave
-nav_order: 11
+nav_order: 12
 subtitle: Boss 8
 ---
 {: .warning .fs-3}
