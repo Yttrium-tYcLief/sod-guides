@@ -9,9 +9,9 @@ subtitle: Boss 1
 {% include fonts.html %}
 
 # Boss 1: [Balnazzar](https://www.wowhead.com/classic/npc=240811/balnazzar)
-*Last updated: 4/14/25*
+*Last updated: 4/18/25*
 
-## When pulling Balnazzar, you should just fight him around the fountain where he spawns.
+### When pulling Balnazzar, you should just fight him around the fountain where he spawns.
 <br>
 
 {: .important .fs-3}
@@ -25,7 +25,7 @@ Previously, it was worth it to try and pull him far away so that you'd get free 
 > >
 > > This berserk timer was increased on 4/14/25, previously 8 minutes.
 
-### Phase 1
+## Phase 1
 Begins at 100%, ends at 70%.
 
 ![Balnazzar, Phase 1]({{site.url}}/enclave/boss1-phase1.jpg)
@@ -34,7 +34,7 @@ Balnazzar has a number of mechanics which persist through every phase of the fig
 
 [Screeching Terror](https://www.wowhead.com/classic/npc=243007/screeching-terror) adds will periodically spawn. Cleave these down, focus them if you have many. They cast [Screeching Fear](https://www.wowhead.com/classic/spell=1231885/screeching-fear) around them, which is why it's important to keep on top of these. However, <ins>the fear cast is kickable</ins>, and kicking it is more important than DPSing. Cast time roughly 2.5sec.
 
-Balnazzar himself will occasionally cast [Carrion Swarm](https://www.wowhead.com/classic/spell=1234584/carrion-swarm) on players within 15-20 yards of him. Anyone infected with it will damage all other players within a few yards of them.
+Balnazzar himself will occasionally cast [Carrion Swarm](https://www.wowhead.com/classic/spell=1231836/carrion-swarm) on players within 15-20 yards of him. Anyone infected with it will damage all other players within a few yards of them.
 
 {: .note-title .fs-3}
 > Carrion Swarm Mechanics
@@ -43,6 +43,11 @@ Balnazzar himself will occasionally cast [Carrion Swarm](https://www.wowhead.com
 > * As long as victims stay within range of a spreader, the victim debuff will continuously refresh, though if they make enough room that it no longer refreshes, it'll fall off quickly.
 > * The victim debuff stacks - if a victim is within range of 2 spreaders, they'll have 2 stacks and take 600 damage per second.
 > * Spreaders will not take damage from their own spreader debuff, but they can be victims to another spreader.
+
+{: .new-title .fs-3}
+> NEW - Changed 4/15/25
+>
+> The victim debuff now uses the [Insect Swarm](https://www.wowhead.com/classic/spell=24977/insect-swarm) icon, making it easier to tell these apart.
 
 [Prey on the Weak](https://www.wowhead.com/classic/spell=1231342/prey-on-the-weak) is a permanent aura affecting all players in every phase of this fight. It will cause any players who are not within ~6 yards of another player to be attacked by mirror images of Balnazzar. This looks sort of like the Hakkar HM Panther attack. This is less punishing in phases 2 and 3 due to mechanics in those phases encouraging clustering.
 
@@ -54,7 +59,7 @@ Casters/healers should stick to a buddy system, so they don't take damage from P
 
 ---
 
-### Phase 2 (Air Phase)
+## Phase 2 (Air Phase)
 Begins at 70%, ends at 40%.
 
 ![Balnazzar, Phase 2]({{site.url}}/enclave/boss1-phase2.jpg)
@@ -88,21 +93,19 @@ Before pushing the boss into the next phase, **you should focus down adds to ens
 
 ---
 
-### Phase 3
+## Phase 3
 Begins at 40%, ends at 5%.
 
 ![Balnazzar, Phase 3]({{site.url}}/enclave/boss1-phase3.jpg)
 
 When Balnazzar lands, the MT should pick him up immediately, just like Onyxia, as casters will probably be at the top of his threat table. He will always land at the same spot, near the easternmost holy zone he originally flew off from, so pre-position there.
 
-At this point, [Infernals](https://www.wowhead.com/classic/npc=243011/infernal) will begin spawning. They spawn on the Lightbearers over time and kill them. They have [Infernal Presence](https://www.wowhead.com/classic/spell=1232187/infernal-presence) which will lightly damage nearby players but make those players immune to Suppressing Darkness.
+In this phase, most of your damage should be on the boss, but you still need to keep up with Screeching Terror spawns until the boss is around 20% - at that point, focus him and burn the remainder.
 
-Hold Infernals near the boss and have melee stack on them as needed. Casters/healers should stay in the holy zones that are still up until the NPCs die. Then those players need to move to any that are still alive, or infernals if necessary.
+At 40%, 30%, 20%, and 10% health, Balnazzar will forcefully kill living Lightbearers, leaving you with 3, 2, 1, and 0, respectively.
 
-In this phase, most of your damage should be on the boss, but you still need to keep up with Screeching Terror spawns until the boss is around 15% - at that point, focus him and burn the remainder.
+Each time he kills a Lightbearer, Balnazzar will spawn an [Infernal](https://www.wowhead.com/classic/npc=243011/infernal) in their place. They have [Infernal Presence](https://www.wowhead.com/classic/spell=1232187/infernal-presence) which will lightly damage nearby players but make those players immune to Suppressing Darkness, just like Light's Hope did.
 
-At 30%, 25%, and 20% health, Balnazzar will forcefully reduce you to 3, 2, and 1 living Lightbearer, respectively. Casters will need to move to another, or enter range of an Infernal to keep casting.
-
-Balnazzar will not kill the last Lightbearer himself, but they can still die to an add. If all 4 die, Balnazzar will enrage. Avoid this at all costs.
+Hold Infernals near the boss and have melee stack on them as needed. Casters/healers should stay in the holy zones that are still up until all of the Lightbearers die, then move to Infernals as necessary.
 
 Balnazzar dies at 5% with a long roleplay. Anyone dead will not see all of the RP.

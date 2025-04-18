@@ -7,13 +7,13 @@ subtitle: Boss 2
 ---
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
-*Last updated: 4/14/25*
+*Last updated: 4/18/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
 
 ## Phase 1
-Lasts 2:20.
+Lasts roughly a minute.
 
 Before Beatrix enters the fight, you must hold out against waves of enemies. The most important thing in this fight is avoiding mechanics and keeping pace with the spawn rate of adds. **All add spawns and mechanics continue occurring while the boss is active.** The armies are:
 
@@ -82,16 +82,16 @@ TODO: Make this tabbed.
 
 ## Phase 2
 
-Beatrix enters the fight after 2 waves of adds have spawned and 2 class calls have been performed.
+Beatrix enters the fight after 2 class calls have been performed.
 
 {: .new-title .fs-3}
 > NEW - Changed 4/14/25
 >
-> This is far sooner than the previous 2:20 timer.
+> This is far sooner than the previous 2:20 timer and will occur within roughly a minute.
 
-She's a fairly simple tank and spank, but the real challenge comes from keeping up with fresh adds and avoiding the call mechanics. Once Beatrix becomes active, the adds will respawn faster based on the rate that you kill them - you should still be cleaving them, but you should primarily focus on Beatrix.
+She's a fairly simple tank and spank, but the real challenge comes from keeping up with fresh adds and avoiding the call mechanics. Once Beatrix becomes active, the adds will respawn faster based on the rate that you kill them. You should continue focusing adds until 50% while cleaving Beatrix - once you cross 50%, switch and primarily focus Beatrix while cleaving adds.
 
-She has a few abilities:
+Beatrix herself has a few abilities:
 
 ### [Unwavering Blade](https://www.wowhead.com/classic/spell=1232389/unwavering-blade)
 She'll cast this on the tank periodically, dramatically increasing the damage they take. Tank-swap immediately. Lasts 25 seconds.
@@ -101,6 +101,9 @@ She targets 3 players and hits them for 95% of their maximum health, reducing th
 
 ### [Rose's Thorn](https://www.wowhead.com/classic/spell=1232390/roses-thorn)
 She will charge into players, and afflict Rose's Thorn on her target. This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. The bleed doesn't deal too much damage as long as it's not left unchecked.
+
+{: .important .fs-3}
+The Scarlet Cavalry adds in this fight will cast [Crusader Strike](https://www.wowhead.com/classic/spell=1236182/crusader-strike) on the tank. While this isn't normally a big deal, in this fight it increases the amount of Holy damage taken by the tank by 10% each stack, up to 5 stacks. <ins>This must be dispelled ASAP</ins> because Beatrix deals primarily Holy damage, so this becomes a tank-buster. A full stack of Crusader Strike is effectively half of an Unwavering Blade, and the two *do* stack together as well.
 
 **The boss dies at 0%.**
 
