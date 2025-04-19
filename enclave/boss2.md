@@ -24,6 +24,9 @@ Before Beatrix enters the fight, you must hold out against waves of enemies. The
 * *A battalion of Scarlet Cavalry, led by* Knight-Captain **Fratley**
 * *A unit of Scarlet Artillery, led by* Cannon Mistress **Lind**
 
+{: .important .fs-3}
+The Scarlet Cavalry adds in this fight will cast [Crusader Strike](https://www.wowhead.com/classic/spell=1236182/crusader-strike) on the tank. While this isn't normally a big deal, in this fight it increases the amount of Holy damage taken by the tank by 10% each stack, up to 5 stacks. <ins>This must be dispelled ASAP</ins> because Beatrix deals primarily Holy damage, so this becomes a tank-buster. A full stack of Crusader Strike is effectively half of an Unwavering Blade, and the two *do* stack together as well.
+
 Occasionally, the leaders of these armies will call for a special mechanic, like BWL Nefarian class calls.
 
 {: .note .fs-3}
@@ -34,37 +37,59 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 {% tabs demo %}
   {% tab demo#Stiltz %}
 
-    <p>The Cardinal and his priests will cast <a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> on the raid. This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
+    <p><b>Cardinal Stiltz</b> and his priests will cast <a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> on the raid.</p>
+    <p>This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
     <p class="tip fs-3">This is similar to <a href="https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller">Gruul's</a> <a href="https://www.wowhead.com/tbc/spell=33654/shatter">Shatter</a> from TBC.</p>
 
   {% endtab %}
   {% tab demo#Puck %}
 
-    <p>He commands his archers to rain hell down on your raid. This is effectively just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.</p>
+    <p><b>Bowmaster Puck</b> commands his archers to rain hell down on your raid.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="/enclave/assets/boss2_puck.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <p>This is just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.</p>
     <p class="tip fs-3">By far the easiest mechanic for the raid. Healers be sure to AoE and have HoTs rolling, everyone else just ignore it and focus DPS.</p>
 
   {% endtab %}
   {% tab demo#Stein %}
 
-    <p>She will send 4 waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each wave.</p><p>Each time one of the Infantry collides with you, you'll receive a stack of <a href="https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx">Scarlet Phalanx</a>, a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.</p>
+    <p><b>Shield Warden Stein</b> will send 4 waves of Scarlet Infantry to form lines and advance towards you.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="/enclave/assets/boss2_stein.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <p>Each time one of the Infantry collides with you, you'll receive a stack of <a href="https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx">Scarlet Phalanx</a>, a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.</p>
     <p class="tip fs-3">Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.</p>
 
   {% endtab %}
   {% tab demo#Hilda %}
 
-    <p>The Arcanist will summon a giant meteor on the battlefield. <ins>This must be soaked.</ins> Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.</p>
+    <p><b>Arcanist Hilda</b> will summon a giant meteor on the battlefield.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="/enclave/assets/boss2_hilda.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <p>Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die. <ins>This must be soaked</ins>.</p>
     <p class="tip fs-3">The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.</p>
 
   {% endtab %}
   {% tab demo#Fratley %}
 
-    <p>He will send 4 waves of Scarlet Cavalry to charge at you. This is similar to the Scarlet Infantry, but you will be greatly knocked back if one hits you. There are more gaps but these move much faster.</p>
+    <p><b>Knight-Captain Fratley</b> will send 4 waves of Scarlet Cavalry to charge at you.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="/enclave/assets/boss2_fratley.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <p>This is similar to the Scarlet Infantry, but you will be knocked back if one hits you. There are more gaps but these move much faster.</p>
     <p class="tip fs-3">It's very easy to get chain knockback'd like a pinball, even off the battlefield and into the perimeter's killbox, so dodge at all costs. When this call is going out, move to the center of the arena so you can more easily anticipate where the knights will be. This is one of the most punishing mechanics due to how fast the Knights are, how far you get knocked back, the fact that it can daisychain, and how much uptime you eventually lose in a fight where losing uptime can cause the adds to cascade in numbers.</p>
 
   {% endtab %}
   {% tab demo#Lind %}
 
-    <p>She will order her artillery to bombard the area. These are choreographed as 5 large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.</p>
+    <p><b>Cannon Mistress Lind</b> will order her artillery to bombard the area.</p>
+    <p>These are choreographed as large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.</p>
     <p class="tip fs-3">This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one. <b>That said, the radius is <i>slightly</i> larger than the visual.</b></p>
 
   {% endtab %}
@@ -93,9 +118,6 @@ She targets 3 players and hits them for 95% of their maximum health, reducing th
 
 ### [Rose's Thorn](https://www.wowhead.com/classic/spell=1232390/roses-thorn)
 She will charge into players, and afflict Rose's Thorn on her target. This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. The bleed doesn't deal too much damage as long as it's not left unchecked.
-
-{: .important .fs-3}
-The Scarlet Cavalry adds in this fight will cast [Crusader Strike](https://www.wowhead.com/classic/spell=1236182/crusader-strike) on the tank. While this isn't normally a big deal, in this fight it increases the amount of Holy damage taken by the tank by 10% each stack, up to 5 stacks. <ins>This must be dispelled ASAP</ins> because Beatrix deals primarily Holy damage, so this becomes a tank-buster. A full stack of Crusader Strike is effectively half of an Unwavering Blade, and the two *do* stack together as well.
 
 **The boss dies at 0%.**
 
