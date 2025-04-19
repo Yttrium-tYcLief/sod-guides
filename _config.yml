@@ -5,6 +5,9 @@ theme: just-the-docs
 url: https://yttrium-tyclief.github.io/sod-guides/
 color_scheme: dark
 
+plugins:
+  - jekyll_bootstrap5_tabs
+
 callouts:
   warning:
     title: Warning

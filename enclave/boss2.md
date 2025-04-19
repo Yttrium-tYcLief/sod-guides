@@ -7,7 +7,7 @@ subtitle: Boss 2
 ---
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
-*Last updated: 4/18/25*
+*Last updated: 4/19/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
@@ -17,66 +17,58 @@ Lasts roughly a minute.
 
 Before Beatrix enters the fight, you must hold out against waves of enemies. The most important thing in this fight is avoiding mechanics and keeping pace with the spawn rate of adds. **All add spawns and mechanics continue occurring while the boss is active.** The armies are:
 
-* *A squadron of Scarlet Infantry, led by* **Shield Warden Stein**
-* *A battalion of Scarlet Cavalry, led by* **Knight-Captain Fratley**
-* *A coven of Scarlet Mages, led by* **Arcanist Hilda**
-* *A unit of Scarlet Artillery, led by* **Cannon Mistress Lind**
-* *A platoon of Scarlet Archers, led by* **Bowmaster Puck**
-* *A clergy of Scarlet Priests, led by* **Cardinal Stiltz**
+* *A clergy of Scarlet Priests, led by* Cardinal **Stiltz**
+* *A platoon of Scarlet Archers, led by* Bowmaster **Puck**
+* *A squadron of Scarlet Infantry, led by* Shield Warden **Stein**
+* *A coven of Scarlet Mages, led by* Arcanist **Hilda**
+* *A battalion of Scarlet Cavalry, led by* Knight-Captain **Fratley**
+* *A unit of Scarlet Artillery, led by* Cannon Mistress **Lind**
 
-Occasionally, the leaders of these armies will call for a special mechanic, like BWL Nefarian class calls. Only one of these calls will occur at a time. While all 6 enemy types will spawn as adds regardless, only the 4 leaders that fled during the prior trash will be involved in the fight and be able to call. These mechanics are as follows:
+Occasionally, the leaders of these armies will call for a special mechanic, like BWL Nefarian class calls.
 
-{% comment %}
-TODO: Make this tabbed.
-{% endcomment %}
+{: .note .fs-3}
+While all 6 enemy types will spawn as adds regardless, only the 4 leaders that fled during the prior trash will be involved in the fight and be able to call. Calls do not overlap, only one will occur at a time.
 
-{: .highlight .fs-3}
->**Cardinal Stiltz**
->
->The Cardinal and his priests will cast Confession on the raid. This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.
->
->{: .tip .fs-3}
->This is similar to [Gruul's](https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller) [Shatter](https://www.wowhead.com/tbc/spell=33654/shatter) from TBC.
+### Class Calls
 
-{: .highlight .fs-3}
->**Bowmaster Puck**
->
->He commands his archers to rain hell down on your raid. This is effectively just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.
->
->{: .tip .fs-3}
->By far the easiest mechanic for the raid. Healers be sure to AoE and have HoTs rolling, everyone else just ignore it and focus DPS.
+{% tabs demo %}
+  {% tab demo#Stiltz %}
 
-{: .highlight .fs-3}
-> **Shield Warden Stein**
-> 
-> She will send 4 waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each line. Each time one of the Infantry collides with you, you'll receive a stack of [Scarlet Phalanx](https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx), a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.
-> 
-> {: .tip .fs-3}
-> Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.
+    <p>The Cardinal and his priests will cast <a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> on the raid. This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
+    <p class="tip fs-3">This is similar to <a href="https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller">Gruul's</a> <a href="https://www.wowhead.com/tbc/spell=33654/shatter">Shatter</a> from TBC.</p>
 
-{: .highlight .fs-3}
->**Arcanist Hilda**
->
->The Arcanist will summon a giant meteor on the battlefield. <ins>This must be soaked.</ins> Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.
->
->{: .tip .fs-3}
->The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.
+  {% endtab %}
+  {% tab demo#Puck %}
 
-{: .highlight .fs-3}
->**Knight-Captain Fratley**
->
->He will send 4 waves of Scarlet Cavalry to charge at you. This is similar to the Scarlet Infantry, but you will be greatly knocked back if one hits you. There are more gaps but these move much faster.
->
->{: .tip .fs-3}
->It's very easy to get chain knockback'd like a pinball, even off the battlefield and into the perimeter's killbox, so dodge at all costs. When this call is going out, move to the center of the arena so you can more easily anticipate where the knights will be. This is one of the most punishing mechanics due to how fast the Knights are, how far you get knocked back, the fact that it can daisychain, and how much uptime you eventually lose in a fight where losing uptime can cause the adds to cascade in numbers.
+    <p>He commands his archers to rain hell down on your raid. This is effectively just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.</p>
+    <p class="tip fs-3">By far the easiest mechanic for the raid. Healers be sure to AoE and have HoTs rolling, everyone else just ignore it and focus DPS.</p>
 
-{: .highlight .fs-3}
->**Cannon Mistress Lind**
->
->She will order her artillery to bombard the area. These are choreographed as 5 large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.
->
->{: .tip .fs-3}
->This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one. **That said, the radius is *slightly* larger than the visual.**
+  {% endtab %}
+  {% tab demo#Stein %}
+
+    <p>She will send 4 waves of Scarlet Infantry to form lines and advance towards you. There are two gaps in each wave.</p><p>Each time one of the Infantry collides with you, you'll receive a stack of <a href="https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx">Scarlet Phalanx</a>, a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.</p>
+    <p class="tip fs-3">Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.</p>
+
+  {% endtab %}
+  {% tab demo#Hilda %}
+
+    <p>The Arcanist will summon a giant meteor on the battlefield. <ins>This must be soaked.</ins> Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die.</p>
+    <p class="tip fs-3">The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.</p>
+
+  {% endtab %}
+  {% tab demo#Fratley %}
+
+    <p>He will send 4 waves of Scarlet Cavalry to charge at you. This is similar to the Scarlet Infantry, but you will be greatly knocked back if one hits you. There are more gaps but these move much faster.</p>
+    <p class="tip fs-3">It's very easy to get chain knockback'd like a pinball, even off the battlefield and into the perimeter's killbox, so dodge at all costs. When this call is going out, move to the center of the arena so you can more easily anticipate where the knights will be. This is one of the most punishing mechanics due to how fast the Knights are, how far you get knocked back, the fact that it can daisychain, and how much uptime you eventually lose in a fight where losing uptime can cause the adds to cascade in numbers.</p>
+
+  {% endtab %}
+  {% tab demo#Lind %}
+
+    <p>She will order her artillery to bombard the area. These are choreographed as 5 large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.</p>
+    <p class="tip fs-3">This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one. <b>That said, the radius is <i>slightly</i> larger than the visual.</b></p>
+
+  {% endtab %}
+{% endtabs %}
 
 ---
 

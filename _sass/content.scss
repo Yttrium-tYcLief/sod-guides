@@ -79,6 +79,52 @@
     }
   }
 
+  ul.nav-tabs {
+    list-style: none;
+    border-bottom: none;
+    margin-top: 1.5em;
+
+    > li.nav-item {
+      margin: 0;
+      padding: 0 0.2em;
+
+      &::before {
+        position: absolute;
+        margin-left: -1.4em;
+        color: $grey-dk-000;
+        content: "";
+      }
+
+      > .nav-link {
+        background-color: $tab-color;
+        padding: .2rem 1.75rem;
+        margin-bottom: 0;
+        border: none;
+        border-radius: 0.5rem 0.5rem 0 0;
+        font-weight:500;
+        font-size: 1.1rem;
+      }
+
+      > .nav-link.active {
+        color: $body-heading-color;
+        background-color: $tab-active-color;
+      }
+    }
+  }
+
+  div.tab-content {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: $sp-5;
+    overflow-x: auto;
+    background-color: $tab-bg-color;
+    padding: 0rem 1rem;
+    border-radius: $border-radius;
+    box-shadow:
+      0 1px 2px rgba(0, 0, 0, 0.12),
+      0 3px 10px rgba(0, 0, 0, 0.08);
+  }
+
   .task-list-item {
     &::before {
       content: "";

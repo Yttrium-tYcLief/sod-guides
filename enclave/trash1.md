@@ -4,7 +4,7 @@ title: Trash (before Boss 1)
 parent: Scarlet Enclave
 nav_order: 1
 ---
-*Last updated: 4/18/25*
+*Last updated: 4/19/25*
 
 At the very start of the raid you'll see a flight master. This is similar to Molten Core's teleportation system; it will allow you to quick travel to future checkpoints as you unlock them.
 
@@ -13,6 +13,8 @@ For now, jump down the hill to begin. If you land on the hay pile, you won't tak
 ![Trash (before Boss 1)]({{site.url}}/enclave/trash1.jpg)
 
 The first boss is inside the Cathedral, but the door is locked.
+
+This first area introduces some trash you'll experience throughout the raid:
 
 * **Scarlet Praetorians** use Whirlwind - avoid. The range of Whirlwind is shown with a blue outline around them, roughly 15 yards. Cannot be kicked, simply run out.
 * **Scarlet Paladins** throw down a red Consecrate. Massive AoE damage over time, avoid just like whirlwind. This uses the Retail visual so it's easier to distinguish from friendly Consecrates.
