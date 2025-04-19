@@ -34,15 +34,15 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
 ### Class Calls
 
-{% tabs demo %}
-  {% tab demo#Stiltz %}
+{% tabs classcalls %}
+  {% tab classcalls#Stiltz %}
 
     <p><b>Cardinal Stiltz</b> and his priests will cast <a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> on the raid.</p>
     <p>This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
     <p class="tip fs-3">This is similar to <a href="https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller">Gruul's</a> <a href="https://www.wowhead.com/tbc/spell=33654/shatter">Shatter</a> from TBC.</p>
 
   {% endtab %}
-  {% tab demo#Puck %}
+  {% tab classcalls#Puck %}
 
     <p><b>Bowmaster Puck</b> commands his archers to rain hell down on your raid.</p>
     <video width="100%" muted loop autoplay>
@@ -53,7 +53,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
     <p class="tip fs-3">By far the easiest mechanic for the raid. Healers be sure to AoE and have HoTs rolling, everyone else just ignore it and focus DPS.</p>
 
   {% endtab %}
-  {% tab demo#Stein %}
+  {% tab classcalls#Stein %}
 
     <p><b>Shield Warden Stein</b> will send 4 waves of Scarlet Infantry to form lines and advance towards you.</p>
     <video width="100%" muted loop autoplay>
@@ -64,7 +64,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
     <p class="tip fs-3">Avoid it if it's easy to do so, but if you're actively fighting mobs or the boss, it's probably not worth the uptime loss to move out of the way, just eat the damage and healers adjust.</p>
 
   {% endtab %}
-  {% tab demo#Hilda %}
+  {% tab classcalls#Hilda %}
 
     <p><b>Arcanist Hilda</b> will summon a giant meteor on the battlefield.</p>
     <video width="100%" muted loop autoplay>
@@ -75,7 +75,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
     <p class="tip fs-3">The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.</p>
 
   {% endtab %}
-  {% tab demo#Fratley %}
+  {% tab classcalls#Fratley %}
 
     <p><b>Knight-Captain Fratley</b> will send 4 waves of Scarlet Cavalry to charge at you.</p>
     <video width="100%" muted loop autoplay>
@@ -86,7 +86,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
     <p class="tip fs-3">It's very easy to get chain knockback'd like a pinball, even off the battlefield and into the perimeter's killbox, so dodge at all costs. When this call is going out, move to the center of the arena so you can more easily anticipate where the knights will be. This is one of the most punishing mechanics due to how fast the Knights are, how far you get knocked back, the fact that it can daisychain, and how much uptime you eventually lose in a fight where losing uptime can cause the adds to cascade in numbers.</p>
 
   {% endtab %}
-  {% tab demo#Lind %}
+  {% tab classcalls#Lind %}
 
     <p><b>Cannon Mistress Lind</b> will order her artillery to bombard the area.</p>
     <p>These are choreographed as large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.</p>
