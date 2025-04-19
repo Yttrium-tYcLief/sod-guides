@@ -4,7 +4,7 @@ title: Trash (before Boss 3/4/5)
 parent: Scarlet Enclave
 nav_order: 5
 ---
-*Last updated: 4/18/25*
+*Last updated: 4/19/25*
 
 After killing Beatrix, the next area opens up north of New Avalon. The next 3 bosses may all be fought in any order you wish, but all 3 must be killed in order to progress to the next zone of the raid.
 
@@ -32,7 +32,7 @@ There is currently a bug with Lightgorged Whelps. These exist as both trash in t
 * **[Scarlet Cavalier](https://www.wowhead.com/classic/npc=240796)**: Knights that aren't a big deal, but they do [Cleave](https://www.wowhead.com/classic/spell=15663).
 * **[Scarlet Executioner](https://www.wowhead.com/classic/npc=240797/scarlet-executioner)**: [Mortal Strikes](https://www.wowhead.com/classic/spell=1232686) the tank. Flagged as rare but not actually rare.
 * **[Scarlet Medic](https://www.wowhead.com/classic/npc=240786)**: These are mostly just priests that single target heal, but they also have a special [Consecration](https://www.wowhead.com/classic/spell=1232755/consecration) ability that, unlike a normal Consecrate that just damages enemies, will also dramatically heal their allies within it. This looks like a holy circle on the ground.
-* **[Scarlet Spellbinder](https://www.wowhead.com/classic/npc=240788/scarlet-spellbinder)**: These cast [Frost Nova](https://www.wowhead.com/classic/spell=11831), which can trap you inside of Praetorian Whirlwinds. They can also summon a [Frozen Core](https://www.wowhead.com/classic/npc=243337/frozen-core), which [impacts the ground after 8 seconds](https://www.wowhead.com/classic/spell=1232770/hailstone), sort of like Sapphiron's mechanic. This deals a massive amount of Frost damage in a short 10 yard radius, so run away from it. Be aware the circle grows in size as it gets closer to impact.
+* **[Scarlet Spellbinder](https://www.wowhead.com/classic/npc=240788/scarlet-spellbinder)**: These cast [Frost Nova](https://www.wowhead.com/classic/spell=11831), which can trap you inside of Praetorian Whirlwinds. They can also summon a [Frozen Core](https://www.wowhead.com/classic/npc=243337/frozen-core), which impacts the ground after 8 seconds, sort of like Sapphiron's mechanic. [Hailstone](https://www.wowhead.com/classic/spell=1232770/hailstone) deals a massive amount of Frost damage in a short 10 yard radius, so run away from it. Be aware the circle grows in size as it gets closer to impact.
 
 There are also a few Captains in this region, similar to the first region. Most do not need to be pulled to activate bosses, but they may get in the way if you don't.
 
