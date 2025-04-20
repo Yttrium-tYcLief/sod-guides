@@ -13,7 +13,7 @@ Boss numbering is based on Warcraftlogs - it may not make sense to pull them in 
 ![Trash (before Boss 3/4/5)]({{site.url}}/enclave/trash3.jpg)
 
 {: .highlight .fs-3}
-Be aware that once Boss 5 has been pulled once, it begins patrolling up and down the road.
+Be aware that after Boss 5 has been pulled once, it begins patrolling up and down the road.
 
 There's a lot of trash in this region. Mob types from Tyr's Hand will show up again, but ones from New Avalon will not. To recap:
 

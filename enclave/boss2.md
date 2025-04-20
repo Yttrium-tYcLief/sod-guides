@@ -46,7 +46,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
     <p><b>Bowmaster Puck</b> commands his archers to rain hell down on your raid.</p>
     <video width="100%" muted loop autoplay>
-    <source src="/enclave/assets/boss2_puck.mp4" type="video/mp4">
+    <source src="{{site.url}}/enclave/assets/boss2_puck.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
     <p>This is just a raid-wide DoT, it does very little damage and is easily outhealed. Shrug it off.</p>
@@ -57,7 +57,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
     <p><b>Shield Warden Stein</b> will send 4 waves of Scarlet Infantry to form lines and advance towards you.</p>
     <video width="100%" muted loop autoplay>
-    <source src="/enclave/assets/boss2_stein.mp4" type="video/mp4">
+    <source src="{{site.url}}/enclave/assets/boss2_stein.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
     <p>Each time one of the Infantry collides with you, you'll receive a stack of <a href="https://www.wowhead.com/classic/spell=1231775/scarlet-phalanx">Scarlet Phalanx</a>, a bleed that must simply be outhealed. This does stack but the damage isn't too brutal.</p>
@@ -68,7 +68,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
     <p><b>Arcanist Hilda</b> will summon a giant meteor on the battlefield.</p>
     <video width="100%" muted loop autoplay>
-    <source src="/enclave/assets/boss2_hilda.mp4" type="video/mp4">
+    <source src="{{site.url}}/enclave/assets/boss2_hilda.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
     <p>Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die. <ins>This must be soaked</ins>.</p>
@@ -79,7 +79,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
     <p><b>Knight-Captain Fratley</b> will send 4 waves of Scarlet Cavalry to charge at you.</p>
     <video width="100%" muted loop autoplay>
-    <source src="/enclave/assets/boss2_fratley.mp4" type="video/mp4">
+    <source src="{{site.url}}/enclave/assets/boss2_fratley.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
     <p>This is similar to the Scarlet Infantry, but you will be knocked back if one hits you. There are more gaps but these move much faster.</p>
