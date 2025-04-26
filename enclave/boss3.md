@@ -11,7 +11,7 @@ This guide is still a work in progress.
 # Boss 3: [Solistrasza](https://www.wowhead.com/classic/npc=238954)
 *Last updated: 4/26/25*
 
-This boss has three phases. You must fully kill the boss 3 times - her health bar resets to full during each phase transition. You can tell what phase you're in by her color - she's red for phase 1, yellow (Time-Lost) for phase 2, and plagued for phase 3.
+This boss has three phases. You must fully kill the boss 3 times - her health bar resets to full during each phase transition. You can tell what phase you're in by her color: she's red for Phase 1, yellow (Time-Lost) for Phase 2, and plagued for Phase 3.
 
 This boss has a lot of mechanics, but individually they're pretty straightforward. All of her mechanics appear from the beginning.
 
