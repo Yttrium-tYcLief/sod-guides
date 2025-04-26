@@ -10,7 +10,7 @@ After killing Beatrix, the next area opens up north of New Avalon. The next 3 bo
 
 Boss numbering is based on Warcraftlogs - it may not make sense to pull them in this order for your raid group.
 
-![Trash (before Boss 3/4/5)]({{site.url}}/enclave/trash3.jpg)
+![Trash (before Boss 3/4/5)]({{site.url}}/enclave/i/trash3.jpg)
 
 {: .highlight .fs-3}
 Be aware that after Boss 5 has been pulled once, it begins patrolling up and down the road.

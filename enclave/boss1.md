@@ -23,7 +23,7 @@ Balnazzar has a 10 minute berserk timer that acts as a hard DPS check for this f
 ## Phase 1
 Begins at 100%, ends at 70%.
 
-![Balnazzar, Phase 1]({{site.url}}/enclave/boss1-phase1.jpg)
+![Balnazzar, Phase 1]({{site.url}}/enclave/i/boss1-phase1.jpg)
 
 Balnazzar has a number of mechanics which persist through every phase of the fight:
 
@@ -53,7 +53,7 @@ Casters/healers should stick to a buddy system, so they don't take damage from P
 ## Phase 2 (Air Phase)
 Begins at 70%, ends at 40%.
 
-![Balnazzar, Phase 2]({{site.url}}/enclave/boss1-phase2.jpg)
+![Balnazzar, Phase 2]({{site.url}}/enclave/i/boss1-phase2.jpg)
 
 Balnazzar will run to the easternmost corner of the central fountain before flying up into the air and circling the area.
 
@@ -87,7 +87,7 @@ Before pushing the boss into the next phase, **you should focus down adds to ens
 ## Phase 3
 Begins at 40%, ends at 5%.
 
-![Balnazzar, Phase 3]({{site.url}}/enclave/boss1-phase3.jpg)
+![Balnazzar, Phase 3]({{site.url}}/enclave/i/boss1-phase3.jpg)
 
 When Balnazzar lands, the MT should pick him up immediately, just like Onyxia, as casters will probably be at the top of his threat table. He will always land at the same spot, near the easternmost holy zone he originally flew off from, so pre-position there.
 

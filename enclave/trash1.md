@@ -10,7 +10,7 @@ At the very start of the raid you'll see a flight master. This is similar to Mol
 
 For now, jump down the hill to begin. If you land on the hay pile, you won't take fall damage.
 
-![Trash (before Boss 1)]({{site.url}}/enclave/trash1.jpg)
+![Trash (before Boss 1)]({{site.url}}/enclave/i/trash1.jpg)
 
 The first boss is inside the Cathedral, but the door is locked.
 
