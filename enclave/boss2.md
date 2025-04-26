@@ -7,7 +7,7 @@ subtitle: Boss 2
 ---
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
-*Last updated: 4/19/25*
+*Last updated: 4/26/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
@@ -55,7 +55,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
   {% endtab %}
   {% tab classcalls#Stein %}
 
-    <p><b>Shield Warden Stein</b> will send 4 waves of Scarlet Infantry to form lines and advance towards you.</p>
+    <p><b>Shield Warden Stein</b> will send Scarlet Infantry to form lines and advance towards you.</p>
     <video width="100%" muted loop autoplay>
     <source src="{{site.url}}/enclave/assets/boss2_stein.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -77,7 +77,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
   {% endtab %}
   {% tab classcalls#Fratley %}
 
-    <p><b>Knight-Captain Fratley</b> will send 4 waves of Scarlet Cavalry to charge at you.</p>
+    <p><b>Knight-Captain Fratley</b> will send waves of Scarlet Cavalry to charge at you.</p>
     <video width="100%" muted loop autoplay>
     <source src="{{site.url}}/enclave/assets/boss2_fratley.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -89,6 +89,10 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
   {% tab classcalls#Lind %}
 
     <p><b>Cannon Mistress Lind</b> will order her artillery to bombard the area.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="{{site.url}}/enclave/assets/boss2_lind.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
     <p>These are choreographed as large red swirls on the ground; avoid these or take a ton of damage. They also leave an AoE ember for a short while after impact that deals a lot of residual damage.</p>
     <p class="tip fs-3">This is pretty clearly coreographed, there's no real excuse to not avoid these. You can only survive a few seconds within the afterburn of one. <b>That said, the radius is <i>slightly</i> larger than the visual.</b></p>
 
