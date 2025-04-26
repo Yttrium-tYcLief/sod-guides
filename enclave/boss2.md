@@ -105,11 +105,6 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 
 Beatrix enters the fight after 2 class calls have been performed.
 
-{: .new-title .fs-3}
-> NEW - Changed 4/14/25
->
-> This is far sooner than the previous 2:20 timer and will occur within roughly a minute.
-
 She's a fairly simple tank and spank, but the real challenge comes from keeping up with fresh adds and avoiding the call mechanics. Once Beatrix becomes active, the adds will respawn faster based on the rate that you kill them. You should continue focusing adds until 50% while cleaving Beatrix - once you cross 50%, switch and primarily focus Beatrix while cleaving adds.
 
 Beatrix herself has a few abilities:

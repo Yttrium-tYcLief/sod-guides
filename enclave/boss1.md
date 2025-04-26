@@ -9,7 +9,7 @@ subtitle: Boss 1
 {% include fonts.html %}
 
 # Boss 1: [Balnazzar](https://www.wowhead.com/classic/npc=240811/balnazzar)
-*Last updated: 4/19/25*
+*Last updated: 4/26/25*
 
 ### When pulling Balnazzar, you should just fight him around the fountain where he spawns.
 <br>
@@ -18,12 +18,7 @@ subtitle: Boss 1
 Previously, it was worth it to try and pull him far away so that you'd get free damage on him as he ran over to transition from phase 1 to 2. However, his movement speed was silently buffed during launch week and it's no longer worth doing this. You lose far more damage trying to position him in the first place than you gain by damaging him for those few seconds for free, and it also forces all of your DPS to adjust to new positions rather than allowing them to set up in those positions in the first place. Prior to that change, you'd gain 20-30 seconds of free damage; now you gain like 5, and he outruns melee so your damage is halved during those 5 too.
 
 {: .highlight .fs-5}
-> Balnazzar has a 10 minute berserk timer that acts as a hard DPS check for this fight.
-> 
-> {: .new-title .fs-3}
-> > NEW - Changed 4/14/25
-> >
-> > This berserk timer was increased on 4/14/25, previously 8 minutes.
+Balnazzar has a 10 minute berserk timer that acts as a hard DPS check for this fight.
 
 ## Phase 1
 Begins at 100%, ends at 70%.
@@ -40,14 +35,10 @@ Balnazzar himself will occasionally cast [Carrion Swarm](https://www.wowhead.com
 > Carrion Swarm Mechanics
 >
 > * This mechanic comes in two parts - spreaders, and victims. The spreader debuff lasts for 20 seconds and does not damage the source player. However, if there are players within 5 yards of a spreader, they will receive the victim debuff, which only lasts a few seconds but deals 300 damage per second to them.
+> * The spreader debuff uses the Carrion Swarm icon. The victim debuff is still called Carrion Swarm [but uses a different icon](https://www.wowhead.com/classic/spell=24977/insect-swarm).
 > * As long as victims stay within range of a spreader, the victim debuff will continuously refresh, though if they make enough room that it no longer refreshes, it'll fall off quickly.
 > * The victim debuff stacks - if a victim is within range of 2 spreaders, they'll have 2 stacks and take 600 damage per second.
 > * Spreaders will not take damage from their own spreader debuff, but they can be victims to another spreader.
-
-{: .new-title .fs-3}
-> NEW - Changed 4/15/25
->
-> The victim debuff now uses the [Insect Swarm](https://www.wowhead.com/classic/spell=24977/insect-swarm) icon, making it easier to tell these apart.
 
 [Prey on the Weak](https://www.wowhead.com/classic/spell=1231342/prey-on-the-weak) is a permanent aura affecting all players in every phase of this fight. It will cause any players who are not within ~6 yards of another player to be attacked by mirror images of Balnazzar. This looks sort of like the Hakkar HM Panther attack. This is less punishing in phases 2 and 3 due to mechanics in those phases encouraging clustering.
 
@@ -102,7 +93,7 @@ When Balnazzar lands, the MT should pick him up immediately, just like Onyxia, a
 
 In this phase, most of your damage should be on the boss, but you still need to keep up with Screeching Terror spawns until the boss is around 20% - at that point, focus him and burn the remainder.
 
-At 40%, 30%, 20%, and 10% health, Balnazzar will forcefully kill living Lightbearers, leaving you with 3, 2, 1, and 0, respectively.
+At 40%, 30%, 20%, and 10% health, Balnazzar will forcefully kill each Lightbearer closest to him, leaving you with 3, 2, 1, and 0, respectively.
 
 Each time he kills a Lightbearer, Balnazzar will spawn an [Infernal](https://www.wowhead.com/classic/npc=243011/infernal) in their place. They have [Infernal Presence](https://www.wowhead.com/classic/spell=1232187/infernal-presence) which will lightly damage nearby players but make those players immune to Suppressing Darkness, just like Light's Hope did.
 
