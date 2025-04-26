@@ -6,11 +6,11 @@ nav_order: 8
 subtitle: Boss 5
 ---
 # Boss 5: Alexei the Beastlord
-*Last updated: 4/18/25*
+*Last updated: 4/26/25*
 
-There are two bosses, [Alexei the Beastlord](https://www.wowhead.com/classic/npc=240794) and [Sir Dornel](https://www.wowhead.com/classic/npc=241906). The bosses have a shared health pool.
+Boss 5 is an encounter with two bosses, [Alexei the Beastlord](https://www.wowhead.com/classic/npc=240794) and [Sir Dornel](https://www.wowhead.com/classic/npc=241906). The bosses have a shared health pool.
 
-This boss is very straightforward - it's like a smaller version of SoM/SoD BWL's Twin Drakes, which itself is already a smaller version of Vanilla Naxx's Four Horsemen.
+This fight is very straightforward - it's like a smaller version of SoM/SoD BWL's Twin Drakes, which itself is already a smaller version of Vanilla Naxx's Four Horsemen.
 
 Every 16 seconds, Alexei will afflict up to 5 nearby players with [Enkindle](https://www.wowhead.com/classic/spell=1230242/enkindle), a stacking DoT that deals more damage per stack. Sir Dornel will simultaneously cast a twin debuff, [Enervate](https://www.wowhead.com/classic/spell=1230200).
 
