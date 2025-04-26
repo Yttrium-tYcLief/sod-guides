@@ -65,4 +65,4 @@ In all situations, melee should watch their stacks and rotate between bosses at 
 In a pinch, you can have casters/healers stand in melee to soak stacks. This is crucial to the success of the Zug Zug method, but can also be employed elsewhere in case of fewer melee, especially for beefy specs like Holy Paladin.
 
 {: .highlight .fs-3}
-Once Alexei has been pulled at least once, he (and Sir Dornel) begin patrolling up and down the road. They will briefly return back to the original stables at the end of each patrol.
+Once Alexei has been pulled at least once, he and Sir Dornel begin patrolling up and down the road. They will briefly return back to the original stables at the end of each patrol.
