@@ -9,6 +9,7 @@ subtitle: Boss 4
 This guide is still a work in progress.
 
 # Boss 4: [Mason the Echo](https://www.wowhead.com/classic/npc=241021/mason-the-echo)
+*Last updated: 4/26/25*
 
 Mason is a relatively challenging fight. His mechanics are fairly simple, but they are tuned incredibly tightly, so this fight really stresses every part of your raid - execution of mechanics, decursing, healing capacity, overall damage during burn periods, and tank survivability.
 
