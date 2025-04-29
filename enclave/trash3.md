@@ -4,7 +4,7 @@ title: Trash (before Boss 3/4/5)
 parent: Scarlet Enclave
 nav_order: 5
 ---
-*Last updated: 4/26/25*
+*Last updated: 4/28/25*
 
 After killing Beatrix, the next area opens up north of New Avalon. The next 3 bosses may all be fought in any order you wish, but all 3 must be killed in order to progress to the next zone of the raid.
 
@@ -24,11 +24,7 @@ There's a lot of trash in this region. Mob types from Tyr's Hand will show up ag
 
 However, there's also a lot of new ones. The important ones are:
 
-* **[Lightgorged Whelp](https://www.wowhead.com/classic/npc=245070/lightgorged-whelp)**: When these die, they explode in an [Unstable Detonation](https://www.wowhead.com/classic/spell=1232332/unstable-detonation). The range cannot be avoided, just make sure you kill them one at a time and not all at once so your healers have time to compensate. Deals 1k raid-wide damage per explosion.
-
-{: .warning .fs-3}
-There is currently a bug with Lightgorged Whelps. These exist as both trash in the region, as well as spawned adds during the Boss 3 encounter. Once Boss 3 has been pulled at least once, the Whelps in the region will begin acting like the ones in the encounter - so instead of exploding for 1K damage when they die, they also have a timed life and if they die from the timer, they instead explode for 2K damage. Since three pull at once, that means a burst of 6K damage, which will often wipe an unbuffed raid. Until this is fixed, **kill all Lightgorged Whelps before your first Boss 3 pull**. This includes the ones flying overhead.
-
+* **[Lightgorged Whelp](https://www.wowhead.com/classic/npc=245070/lightgorged-whelp)**: When these die, they explode in an [Unstable Detonation](https://www.wowhead.com/classic/spell=1232332/unstable-detonation). The range cannot be avoided, just make sure you kill them one at a time and not all at once so your healers have time to compensate. Deals 1k raid-wide damage per explosion. After being in combat for 30 seconds, they will prematurely detonate regardless of their health.
 * **[Scarlet Cavalier](https://www.wowhead.com/classic/npc=240796)**: These knights aren't a big deal, but they do [Cleave](https://www.wowhead.com/classic/spell=15663).
 * **[Scarlet Executioner](https://www.wowhead.com/classic/npc=240797/scarlet-executioner)**: [Mortal Strikes](https://www.wowhead.com/classic/spell=1232686) the tank. Flagged as rare but not actually rare.
 * **[Scarlet Medic](https://www.wowhead.com/classic/npc=240786)**: These are mostly just priests that single target heal, but they also have a special [Consecration](https://www.wowhead.com/classic/spell=1232755/consecration) ability that, unlike a normal Consecrate that just damages enemies, will also dramatically heal their allies within it. This looks like a giant holy circle on the ground.
