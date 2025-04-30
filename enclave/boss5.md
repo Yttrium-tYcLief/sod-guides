@@ -8,6 +8,11 @@ subtitle: Boss 5
 # Boss 5: Alexei the Beastlord
 *Last updated: 4/26/25*
 
+{: .new-title .fs-3}
+> NEW - Updated 4/29/25
+>
+> The berserk timer is now 10 minutes, making this a very easy fight.
+
 Boss 5 is an encounter with two bosses, [Alexei the Beastlord](https://www.wowhead.com/classic/npc=240794) and [Sir Dornel](https://www.wowhead.com/classic/npc=241906). The bosses have a shared health pool.
 
 This fight is very straightforward - it's like a smaller version of SoM/SoD BWL's Twin Drakes, which itself is already a smaller version of Vanilla Naxx's Four Horsemen.

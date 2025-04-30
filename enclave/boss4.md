@@ -9,7 +9,14 @@ subtitle: Boss 4
 This guide is still a work in progress.
 
 # Boss 4: [Mason the Echo](https://www.wowhead.com/classic/npc=241021/mason-the-echo)
-*Last updated: 4/26/25*
+*Last updated: 4/29/25*
+
+{: .new-title .fs-3}
+> NEW - Updated 4/29/25
+>
+> The berserk timer is now 10 minutes, making this a very easy fight.
+> 
+> *The timer was originally 5min 30sec, then 7min, and now currently 10min.*
 
 Mason is a relatively challenging fight. His mechanics are fairly simple, but they are tuned incredibly tightly, so this fight really stresses every part of your raid - execution of mechanics, decursing, healing capacity, overall damage during burn periods, and tank survivability.
 

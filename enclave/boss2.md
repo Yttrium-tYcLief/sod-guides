@@ -7,10 +7,15 @@ subtitle: Boss 2
 ---
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
-*Last updated: 4/26/25*
+*Last updated: 4/29/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
+
+{: .new-title .fs-3}
+> NEW - Updated 4/29/25
+>
+> The berserk timer is now 10 minutes, making this a very easy fight.
 
 ## Phase 1
 Lasts roughly a minute.
