@@ -14,7 +14,7 @@ This guide is still a work in progress.
 {: .new-title .fs-3}
 > NEW - Updated 4/29/25
 >
-> The berserk timer is now 10 minutes, making this a very easy fight.
+> The berserk timer is now 10 minutes.
 
 This boss has three phases. You must fully kill the boss 3 times - her health bar resets to full during each phase transition. You can tell what phase you're in by her color: she's red for Phase 1, yellow (Time-Lost) for Phase 2, and plagued for Phase 3.
 

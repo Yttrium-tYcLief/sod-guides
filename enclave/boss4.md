@@ -14,7 +14,7 @@ This guide is still a work in progress.
 {: .new-title .fs-3}
 > NEW - Updated 4/29/25
 >
-> The berserk timer is now 10 minutes, making this a very easy fight.
+> The berserk timer is now 10 minutes.
 > 
 > *The timer was originally 5min 30sec, then 7min, and now currently 10min.*
 

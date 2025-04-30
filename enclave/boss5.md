@@ -11,7 +11,7 @@ subtitle: Boss 5
 {: .new-title .fs-3}
 > NEW - Updated 4/29/25
 >
-> The berserk timer is now 10 minutes, making this a very easy fight.
+> The berserk timer is now 10 minutes.
 
 Boss 5 is an encounter with two bosses, [Alexei the Beastlord](https://www.wowhead.com/classic/npc=240794) and [Sir Dornel](https://www.wowhead.com/classic/npc=241906). The bosses have a shared health pool.
 
