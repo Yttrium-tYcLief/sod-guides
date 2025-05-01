@@ -1,63 +1,198 @@
 // custom SCSS (or CSS) goes here
 
 ul.nav-tabs {
-    list-style: none;
-    border-bottom: none;
-    margin-top: 1.5em;
+  list-style: none;
+  border-bottom: none;
+  margin-top: 1.5em;
 
-    > li.nav-item {
-      margin: 0;
-      padding: 0 0.2em;
+  > li.nav-item {
+    margin: 0;
+    padding: 0 0.2em;
 
-      &::before {
-        position: absolute;
-        margin-left: -1.4em;
-        color: $grey-dk-000;
-        content: "";
-      }
+    &::before {
+      position: absolute;
+      margin-left: -1.4em;
+      color: $grey-dk-000;
+      content: "";
+    }
 
-      > .nav-link {
-        background-color: $tab-color;
-        padding: .2rem 1.75rem;
-        margin-bottom: 0;
-        border: none;
-        border-radius: 0.5rem 0.5rem 0 0;
-        font-weight:500;
-        font-size: 1.1rem;
-      }
+    > .nav-link {
+      background-color: $tab-color;
+      padding: .2rem 1.75rem;
+      margin-bottom: 0;
+      border: none;
+      border-radius: 0.5rem 0.5rem 0 0;
+      font-weight:500;
+      font-size: 1.1rem;
+    }
 
-      > .nav-link.active {
-        color: $body-heading-color;
-        background-color: $tab-active-color;
-      }
+    > .nav-link.active {
+      color: $body-heading-color;
+      background-color: $tab-active-color;
     }
   }
+}
 
-  div.tab-content {
-    width: 100%;
-    max-width: 100%;
-    margin-bottom: $sp-5;
-    overflow-x: auto;
-    background-color: $tab-bg-color;
-    padding: 0rem 1rem;
-    border-radius: 0.75em;
-    box-shadow:
-      0 1px 2px rgba(0, 0, 0, 0.12),
-      0 3px 10px rgba(0, 0, 0, 0.08);
-  }
+div.tab-content {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $sp-5;
+  overflow-x: auto;
+  background-color: $tab-bg-color;
+  padding: 0rem 1rem;
+  border-radius: 0.75em;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.12),
+    0 3px 10px rgba(0, 0, 0, 0.08);
+}
 
-  video {
-    border-radius: 2em;
-    border: 3px solid $grey-dk-100;
-  }
+video {
+  border-radius: 2em;
+  border: 3px solid $grey-dk-100;
+}
 
-  h1 {
-    a {
-      color: inherit;
-      text-decoration: inherit;
-    }
-    a:hover {
-      color: inherit;
-      text-decoration: inherit;
-    }
+h1 {
+  a {
+    color: inherit;
+    text-decoration: inherit;
   }
+  a:hover {
+    color: inherit;
+    text-decoration: inherit;
+  }
+}
+
+.class-druid {
+  color: #FF7C0A;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/druid.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-hunter {
+  color: #AAD372;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/hunter.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-mage {
+  color: #3FC7EB;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/mage.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-paladin {
+  color: #F48CBA;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/paladin.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-priest {
+  color: #FFFFFF;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/priest.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-rogue {
+  color: #FFF468;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/rogue.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-shaman {
+  color: #0070DD;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/shaman.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-warlock {
+  color: #8788EE;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/warlock.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
+
+.class-warrior {
+  color: #C69B6D;
+  font-weight: 600;
+
+  &:before {
+    content: url("/assets/svg/warrior.svg");
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 4px;
+    position: relative;
+    top: 4px;
+  }
+}
