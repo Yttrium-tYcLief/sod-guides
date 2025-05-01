@@ -9,7 +9,7 @@ nav_order: 3
 You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape.
 
 {: .new .fs-5}
-The empowered leaders for 4/22 - 4/28 are **Puck** and **Lind**.
+The empowered leaders for 4/29 - 5/6 are **Stiltz** and **Hilda**.
 
 ## Leaders
 
@@ -33,7 +33,7 @@ These leaders are:
 5. **Knight-Captain Fratley**, in front of the Scarlet Hold Barracks
 6. **Cannon Mistress Lind**, inside the Forge
 
-![Trash (before Boss 2)]({{site.url}}/enclave/trash2.jpg)
+![Trash (before Boss 2)]({{site.url}}/enclave/i/trash2.jpg)
 
 Once all 6 leaders have been fought (2 are dead and 4 have fled), **a large Scarlet regiment will spawn in the town square**, coming from the direction of Tyr's Hand. Approach it to begin the Boss 2 encounter.
 

@@ -5,8 +5,6 @@ parent: Scarlet Enclave
 nav_order: 7
 subtitle: Boss 4
 ---
-{: .warning .fs-3}
-This guide is still a work in progress.
 
 # Boss 4: [Mason the Echo](https://www.wowhead.com/classic/npc=241021/mason-the-echo)
 *Last updated: 4/29/25*
