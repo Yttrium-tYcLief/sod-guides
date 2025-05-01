@@ -7,7 +7,7 @@ subtitle: Boss 3
 ---
 
 # Boss 3: [Solistrasza](https://www.wowhead.com/classic/npc=238954)
-*Last updated: 4/29/25*
+*Last updated: 5/1/25*
 
 {: .new-title .fs-3}
 > NEW - Updated 4/29/25
@@ -39,6 +39,9 @@ This will typically be cast on the closest player to her. <ins>This does not put
 Most importantly, Solistrasza will periodically summon three Whelps. These have a 30 second timed life. If they are killed before their timer expires, they will explode with an [Unstable Detonation](https://www.wowhead.com/classic/spell=1232332/unstable-detonation), dealing 1000 damage to all players. However, if they aren't killed before their timer expires, they will instead explode and deal 2000 damage. This means that if you don't kill any of them, they'll explode simultaneously and deal 6000 damage raid-wide, which is almost guaranteed to cause deaths.
 
 When whelps spawn, you should mark and focus down one Whelp, then switch back to the boss. Healers need to top up the raid ASAP from the first 1000 damage Detonation. They'll be taxxed by the later 4000 damage burst, but it shouldn't cause deaths as long as they're on top of raid healing otherwise.
+
+{: .tip .fs-3}
+If one of your healers managed to obtain [Stiltz's Standard](https://www.wowhead.com/classic/item=241068/stiltzs-standard) from Beatrix, this trinket can dramatically ease the struggle of outhealing Unstable Detonation. It is, in effect, a **free raid-wide Titans flask for 20 seconds**, with a 2 minute cooldown. Rather than simply raising your maximum health like a Fortitude buff would, which would necessitate healing to top everyone up to full again, this buff acts like a flask and instantly heals for that amount as well. With its short 2 minute cooldown, even having just one means you can pop it for every other Whelp pack. While this fight is certainly doable without Stiltz's Standard, it does make it a *lot* easier.
 
 ### [Blistering Vent](https://www.wowhead.com/classic/spell=1232018)
 Occasionally, the arena will burn for a period of time, turning your screen red. This is a raid-wide DoT that must simply be outhealed while everything else is going on. [Fire Resistance Aura](https://www.wowhead.com/classic/spell=19900/fire-resistance-aura), [Duke's Domain](https://www.wowhead.com/classic/item=227915/dukes-domain), [Power Word: Barrier](https://www.wowhead.com/classic/spell=425207/power-word-barrier), etc will be very useful in mitigating this damage. With no other mechanics going on, this damage is easily outhealed, but when overlapping an Unstable Detonation it can be brutal.
