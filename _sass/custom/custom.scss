@@ -67,7 +67,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/druid.svg");
+    content: url("{{site.url}}/assets/svg/druid.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -82,7 +82,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/hunter.svg");
+    content: url("{{site.url}}/assets/svg/hunter.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -97,7 +97,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/mage.svg");
+    content: url("{{site.url}}/assets/svg/mage.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -112,7 +112,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/paladin.svg");
+    content: url("{{site.url}}/assets/svg/paladin.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -127,7 +127,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/priest.svg");
+    content: url("{{site.url}}/assets/svg/priest.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -142,7 +142,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/rogue.svg");
+    content: url("{{site.url}}/assets/svg/rogue.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -157,7 +157,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/shaman.svg");
+    content: url("{{site.url}}/assets/svg/shaman.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -172,7 +172,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/warlock.svg");
+    content: url("{{site.url}}/assets/svg/warlock.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
@@ -187,7 +187,7 @@ h1 {
   font-weight: 600;
 
   &:before {
-    content: url("/assets/svg/warrior.svg");
+    content: url("{{site.url}}/assets/svg/warrior.svg");
     display: inline-block;
     width: 20px;
     height: 20px;
