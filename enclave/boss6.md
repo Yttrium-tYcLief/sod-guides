@@ -166,7 +166,7 @@ Each boss has a unique Reborn Inspiration buff that applies to the other bosses 
 ## Strategy
 Melee should be focused on killing Vishas and, when possible, Herod. Whenever Herod begins channeling Blades of Light, any melee on him should move back to Vishas.
 
-Ranged should be focused primarily on killing Doan. While it's possible for melee to attack him, Blast Wave makes that very annoying, and it's also an outright pain to try and chase him around when he keeps teleporting. Casters with 30 yard spells should be able to reach around 80% of the possible teleport locations as long as they're standing on the rim of the upper floor.
+Ranged should be focused primarily on killing Doan. While it's possible for melee to attack him, Blast Wave makes that very annoying, and it's also an outright pain to try and chase him around when he keeps teleporting. Casters with 30 yard spells should be able to reach most of the possible teleport locations as long as they're standing on the rim of the upper floor.
 
 You should focus on killing Doan first, since his death will dramatically simplify the mechanics at play - killing him will remove both magic debuffs, Blast Wave, and Molten Remnants. While his death will cause a permanent Molten Basin and the accompanying tornados, these are relatively minor compared to the *massive* benefit of no longer having him teleport everywhere. Don't forget, with him dead, both of the other bosses can remain stationary for the rest of the fight.
 
