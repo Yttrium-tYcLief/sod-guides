@@ -20,15 +20,11 @@ This encounter has three separate bosses: <span class="class-mage">Doan</span>, 
 
 ![Boss 6, Reborn Council]({{site.url}}/enclave/i/boss6_intro.png)
 
-They pull together.
-
-The bosses do not have a shared health pool.
-
-Each of these bosses have a multitude of mechanics, some of which will persist when they die.
-
-Each boss also has a unique Reborn Inspiration buff that applies to the other bosses if they are too close, so they must all be tanked at least 10 yards from each other.
+They pull together and have separate health pools.
 
 Despite visually being Undead, they do not count as Undead enemies, so T3 6-piece bonuses do not work against them.
+
+The bosses do not have to die simultaneously, but when each one dies, their death will change some fight mechanics.
 
 ---
 ## Boss Mechanics
@@ -113,6 +109,8 @@ Unless otherwise noted, all of these mechanics will stop when that boss is kille
 
 ## Positioning
 The entire fight should take place on the middle and upper levels of the arena, leaving the bottom floor empty to avoid having to reposition for Molten Basin.
+
+Each boss has a unique Reborn Inspiration buff that applies to the other bosses if they are too close, so they must all be tanked at least 10 yards from each other.
 
 {% tabs positions %}
   {% tab positions#Pull %}
