@@ -42,8 +42,12 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
 {% tabs classcalls %}
   {% tab classcalls#Stiltz %}
 
-    <p><b>Cardinal Stiltz</b> and his priests will cast <a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> on the raid.</p>
-    <p>This applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
+    <p><b>Cardinal Stiltz</b> and his priests will cast Confession on the raid.</p>
+    <video width="100%" muted loop autoplay>
+    <source src="{{site.url}}/enclave/v/boss2_stiltz.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <p><a href="https://www.wowhead.com/classic/spell=1231873/confession">Confession</a> applies a debuff to the majority of the raid with a small DoT; after 5 seconds, anyone afflicted will receive damage based on their proximity to other players. When you know a Confession is about to go out, <ins>the entire raid must spread until it expires</ins>, or it'll be a quick wipe.</p>
     <p class="tip fs-3">This is similar to <a href="https://www.wowhead.com/tbc/npc=19044/gruul-the-dragonkiller">Gruul's</a> <a href="https://www.wowhead.com/tbc/spell=33654/shatter">Shatter</a> from TBC.</p>
 
   {% endtab %}
@@ -77,7 +81,7 @@ While all 6 enemy types will spawn as adds regardless, only the 4 leaders that f
     Your browser does not support the video tag.
     </video>
     <p>Anyone inside the meteor when it impacts will take some damage, but anyone outside of the meteor will instantly die. <ins>This must be soaked</ins>.</p>
-    <p class="tip fs-3">The meteor's location is pre-determined, it will always land in a spot roughly in front of Hilda. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.</p>
+    <p class="tip fs-3">The meteor's location is pre-determined, it will always land in a spot roughly in front of where Beatrix begins. Bubbles or other party-wide defensives will help, but the damage is minimal as long as you do the mechanic.</p>
 
   {% endtab %}
   {% tab classcalls#Fratley %}
