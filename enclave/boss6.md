@@ -76,7 +76,7 @@ Unless otherwise noted, all of these mechanics will stop when that boss is kille
     <p>The <span class="class-mage">Mage</span> of the trio. <b>He does not need to be tanked</b>, but he has the most mechanics of any other boss. He will periodically teleport around the arena; tanks will need to reposition the other two bosses to keep all three apart.</p>
     
     <h3><a href="https://www.wowhead.com/classic/spell=1231200">Fireball</a></h3>
-    <p>This is his primary attack - it has a 2 second cast time and can be interrupted, but you should save your interrupt cooldowns for Vishas.</p>
+    <p>This is his primary attack - it has a 2 second cast time and can be interrupted, but you should save your interrupt cooldowns for Vishas. This does relatively little damage.</p>
     
     <h3><a href="https://www.wowhead.com/classic/spell=1231282">Molten Basin</a></h3>
     <p>Periodically, Doan will flood the lowest level of the arena with a lava pool. Climbing the first set of stairs is enough to avoid this.</p>
