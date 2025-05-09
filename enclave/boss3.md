@@ -7,14 +7,11 @@ subtitle: Boss 3
 ---
 
 # Boss 3: [Solistrasza](https://www.wowhead.com/classic/npc=238954)
-*Last updated: 5/1/25*
-
-{: .new-title .fs-3}
-> NEW - Updated 4/29/25
->
-> The berserk timer is now 10 minutes.
+*Last updated: 5/9/25*
 
 This boss has three phases. You must fully kill the boss 3 times - her health bar resets to full during each phase transition. You can tell what phase you're in by her color: she's red for Phase 1, yellow (Time-Lost) for Phase 2, and plagued for Phase 3.
+
+Solistrasza has a 10 minute berserk timer, which should be very easy to hit for any group.
 
 This boss has a lot of mechanics, but individually they're pretty straightforward. All of her mechanics appear from the beginning.
 

@@ -4,7 +4,7 @@ title: Trash (before Boss 6)
 parent: Scarlet Enclave
 nav_order: 9
 ---
-*Last updated: 5/1/25*
+*Last updated: 5/9/25*
 
 Once Bosses 3, 4, and 5 are all dead, head to the New Avalon Monastery to the northwest. Outside you'll find a friendly Mage named Angela Dosantos - talk to her to open a portal into the Monastery. Once inside, fight your way forward until you reach Boss 6.
 
@@ -29,3 +29,5 @@ His abilities cease to deal damage once he dies.
 <source src="{{site.url}}/enclave/v/trash4_granis.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
+After Granis Darkhammer is dead, proceed through the northern door and subsequent hallway to the Boss 6 encounter.

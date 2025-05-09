@@ -9,22 +9,22 @@ subtitle: Boss 6
 This guide is still a work in progress.
 
 # Boss 6: Reborn Council
-*Last updated: 5/1/25*
-
-{: .new-title .fs-3}
-> NEW - Updated 4/29/25
->
-> The berserk timer is now 10 minutes.
-
-This encounter has three separate bosses: <span class="class-mage">Doan</span>, <span class="class-warrior">Herod</span>, and <span class="class-rogue">Vishas</span>.
+*Last updated: 5/9/25*
 
 ![Boss 6, Reborn Council]({{site.url}}/enclave/i/boss6_intro.png)
+
+This encounter has three separate bosses: <span class="class-mage">Doan</span>, <span class="class-warrior">Herod</span>, and <span class="class-rogue">Vishas</span>.
 
 They pull together and have separate health pools.
 
 Despite visually being Undead, they do not count as Undead enemies, so T3 6-piece bonuses do not work against them.
 
 The bosses do not have to die simultaneously, but when each one dies, their death will change some fight mechanics.
+
+This encounter has a 10 minute berserk timer - all bosses must die before this occurs.
+
+{: .note .fs-3}
+This timer is tight enough to warrant mentioning, but it's definitely possible to hit with 20 players, and much easier with more.
 
 ---
 ## Boss Mechanics

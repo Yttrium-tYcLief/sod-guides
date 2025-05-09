@@ -7,15 +7,10 @@ subtitle: Boss 2
 ---
 
 # Boss 2: [Beatrix](https://www.wowhead.com/classic/npc=240812/high-commander-beatrix)
-*Last updated: 4/29/25*
+*Last updated: 5/9/25*
 
 {: .note .fs-3}
 When pulling this boss, everyone must run towards her. Scarlet soldiers will quickly form a square perimeter and any players outside of this perimeter will instantly die.
-
-{: .new-title .fs-3}
-> NEW - Updated 4/29/25
->
-> The berserk timer is now 10 minutes, making this a very easy fight.
 
 ## Phase 1
 Lasts roughly a minute.
@@ -128,6 +123,9 @@ She targets 3 players and hits them for 95% of their maximum health, reducing th
 She will charge into players, and afflict Rose's Thorn on her target. This puts a bleed on a player until they're healed to full, similar to BWL Red Trial. The bleed doesn't deal too much damage as long as it's not left unchecked.
 
 **The boss dies at 0%.**
+
+{: .note .fs-3}
+Beatrix has a 10 minute berserk timer that should be easy to meet for any raid.
 
 {: .warning .fs-3}
 There were rumors running rampant during early progression that the boss dies at 50% due to how much difficulty folks had pushing her to that point. This is not true.

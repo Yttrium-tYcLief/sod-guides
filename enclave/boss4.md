@@ -7,19 +7,14 @@ subtitle: Boss 4
 ---
 
 # Boss 4: [Mason the Echo](https://www.wowhead.com/classic/npc=241021/mason-the-echo)
-*Last updated: 4/29/25*
-
-{: .new-title .fs-3}
-> NEW - Updated 4/29/25
->
-> The berserk timer is now 10 minutes.
-> 
-> *The timer was originally 5min 30sec, then 7min, and now currently 10min.*
+*Last updated: 5/9/25*
 
 Mason is a relatively challenging fight. His mechanics are fairly simple, but they are tuned incredibly tightly, so this fight really stresses every part of your raid - execution of mechanics, decursing, healing capacity, overall damage during burn periods, and tank survivability.
 
 {: .important .fs-3}
 To spawn the boss, you must kill First Mate Kip. He's located on top of the scaffolding beside the in-progress ship on the beach. Once spawned, Mason patrols up and down the central dock, occasionally stopping to taunt your raid.
+
+This boss has a 10 minute berserk timer, which is long enough that almost any 20-man group should be comfortably within it.
 
 ---
 ### Combat Phase
