@@ -9,7 +9,7 @@ nav_order: 3
 You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape.
 
 {: .new .fs-5}
-The empowered leaders for 5/20 - 5/26 are **Stein** and **Puck**.
+The empowered leaders for 5/27 - 6/2 are **Fratley** and **Hilda**. There was a bug last week that resulted in Fydriel lying about who was empowered - this has been tested to not be the case this week, Fratley and Hilda are confirmed empowered.
 
 ## Leaders
 
