@@ -4,12 +4,12 @@ title: Trash (before Boss 2)
 parent: Scarlet Enclave
 nav_order: 3
 ---
-*Last updated: 6/10/25*
+*Last updated: 6/17/25*
 
 You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape.
 
 {: .new .fs-5}
-The empowered leaders for 6/10 - 6/16 are **Puck** and **Hilda**.
+The empowered leaders for 6/17 - 6/23 are **Stein** and **Stiltz**.
 
 ## Leaders
 
