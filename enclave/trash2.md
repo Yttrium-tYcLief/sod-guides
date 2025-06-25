@@ -8,9 +8,6 @@ nav_order: 3
 
 You'll begin in the basement prison of the Barracks in southern New Avalon. An Argent Dawn member will pick the lock so you can escape.
 
-{: .new .fs-5}
-The empowered leaders for 6/17 - 6/23 are **Stein** and **Stiltz**.
-
 ## Leaders
 
 Talk to the Night Elf named Fydriel near the Barracks exit - he will tell you which of the next minibosses are empowered.
