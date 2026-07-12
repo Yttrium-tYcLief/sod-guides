@@ -5,7 +5,9 @@ parent: Blackwing Lair
 nav_order: 5
 ---
 # Twin Drakes (Ebonroc & Flamegor)
-This one is completely different from Era, and is identical to SoM, but it's not overly difficult. It's just a 2-boss version of Four Horseman from Naxx. The bosses must be tanked in opposite sides of the room. Ebonroc casts [**Brand of Shadow**](https://www.wowhead.com/classic/spell=368515/brand-of-shadow) and Flamegor casts [**Brand of Flame**](https://www.wowhead.com/classic/spell=368521/brand-of-flame). These puts stacking debuffs on all players in a 50-yard radius around them that causes you to take exponentially more damage each time it stacks. These stacks will cause 250, 500, 1000, 2000, 4000, then 8000 damage for 1-6 stacks, respectively. The only way to drop stacks is to get far enough away from each respective boss.
+*Last updated: 7/12/26*
+
+This one is completely different from Era, and is identical to SoM, but it's not overly difficult. It's just a 2-boss version of Four Horseman from Naxx. The bosses should be tanked in opposite sides of the room. Ebonroc casts [**Brand of Shadow**](https://www.wowhead.com/classic/spell=368515/brand-of-shadow) and Flamegor casts [**Brand of Flame**](https://www.wowhead.com/classic/spell=368521/brand-of-flame). These put stacking debuffs on all players in a 50-yard radius around them that causes you to take exponentially more damage each time it stacks. These stacks will cause 250, 500, 1000, 2000, 4000, then 8000 damage for 1-6 stacks, respectively. The only way to drop stacks is to get far enough away from each respective boss.
 
 For the raid, get to 3-4 stacks of one debuff, then switch to the other boss until you've got 3-4 stacks of the other debuff (by which time the first debuff will have fallen off), then switch back, rinse and repeat. To help divide damage, you might want to have all melee start on one boss and all ranged start on the other. Split healers accordingly so there are always a couple healers covering the raiders on each boss.
 
@@ -13,6 +15,7 @@ Tanks can get up to 4-5 stacks but must still swap. A third tank will allow the 
 
 Both bosses must die at roughly the same time, or they begin reviving with a small amount of HP and must be put down again. Be sure to call for DPS to slow their damage as needed.
 
+---
 
 {: .blacktrial }
 > **Red Light, Green Light**

@@ -26,9 +26,46 @@ callouts:
   blacktrial:
     title: Black Trial Changes
     color: purple
+    opacity: 0.6
   tip:
     title: Tip
     color: blue
   example:
     title: Example
     color: green
+  heat1:
+    title: Heat Level 1
+    color: blue
+  heat2:
+    title: Heat Level 2
+    color: yellow
+  heat3:
+    title: Heat Level 3
+    color: red
+  druid:
+    title: Druid
+    color: druid
+  hunter:
+    title: Hunter
+    color: hunter
+  mage:
+    title: Mage
+    color: mage
+  paladin:
+    title: Paladin
+    color: paladin
+  priest:
+    title: Priest
+    color: priest
+  rogue:
+    title: Rogue
+    color: rogue
+  shaman:
+    title: Shaman
+    color: shaman
+  warlock:
+    title: Warlock
+    color: warlock
+  warrior:
+    title: Warrior
+    color: warrior

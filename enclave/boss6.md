@@ -43,7 +43,7 @@ Unless otherwise noted, all of these mechanics will stop when that boss is kille
     <p>This is a frontal ability that will severely damage the tank and apply a Mortal Strike effect for 5 seconds, halving healing received. The boss must be tanked facing towards the wall to avoid this hitting other players.</p>
 
     <h3><a href="https://www.wowhead.com/classic/spell=1231383">Divine Avatar</a></h3>
-    <p>This is a 15 second pseudo-Frenzy that will buff Herod's damage by 50% and cause a secondary effect to hit the raid, Divine Strike. While this behaves like a Frenzy, it cannot be tranq'd like one.</p> TODO: Confirm no tranq
+    <p>This is a 15 second pseudo-Frenzy that will buff Herod's damage by 50% and cause a secondary effect to hit the raid, Divine Strike. While this behaves like a Frenzy, it cannot be tranq'd like one.</p>
 
     <h3><a href="https://www.wowhead.com/classic/spell=1231493">Divine Strike</a></h3>
     <p>Whenever Divine Avatar is active, holy rain will fall from the sky and land on the ground, similar to Solistrasza's Radiant Light. The damage radius from this is very well choreographed; as soon as you see holy circles, run out of them.</p>

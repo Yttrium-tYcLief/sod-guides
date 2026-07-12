@@ -4,11 +4,12 @@ title: Vaelastrasz
 parent: Blackwing Lair
 nav_order: 2
 ---
-
 # Vaelastrasz
+*Last updated: 7/12/26*
+
 Vael is a dragon fight, so the boss will do breaths (tank keeps boss turned away, raid fights from his side), tail swipe, etc. However, Vael is a very unique fight - as soon as the fight begins, Vael will cast a buff on the entire raid that essentially gives you infinite resources - full mana, rage, and energy.
 
-The main mechanic of this fight is that periodically, Vael will cast [**Burning Adrenaline**](https://www.wowhead.com/classic/spell=469261/burning-adrenaline) on a player. Once they receive their first stack of Burning Adrenaline, they will begin accumulating stacks every few seconds. Each new tick will do successively more damage to you. However, Burning Adrenaline also grants you more damage and faster attack/cast speed with each additional tick.
+The main mechanic of this fight is that periodically, Vael will cast [**Burning Adrenaline**](https://www.wowhead.com/classic/spell=469261/burning-adrenaline) on a player. Once they receive their first stack of Burning Adrenaline, they will begin accumulating stacks every few seconds. Each new tick will do successively more damage to you. However, Burning Adrenaline also grants you more damage and faster attack/cast speed with each additional stack.
 
 The real risk here is Burning Adrenaline's final mechanic - upon death, a player with Burning Adrenaline will explode, dealing a large amount of damage to all surrounding allies. The amount of damage done scales with the number of stacks detonated, and it also can cause a chain reaction of cascading explosions if it kills other players with BA.
 
@@ -25,10 +26,11 @@ When a player receives BA, they need to *immediately* move to the designated BA 
 - **For healers**, this position is to the east (right) of your original stack. This moves you out of range of the BA'd casters but keeps you in range of the tank. When BA'd your primary job is to keep the tank alive, since they'll be getting to dangerous stacks around this time.
 - **Secondary tank(s)** are stacked with the melee and simply DPS. Vael isn't tauntable, so the only way for a secondary tank to take over is if they have BA and are second on threat when the MT dies.
 
-### Diagram
-![enter image description here](https://i.imgur.com/UbRYMJy.png)
+![Vaelstrasz Position]({{site.url}}/bwl/i/vael.png)
 
-This fight is not all that difficult - each individual has fairly basic instructions - it's just that these instructions are precise, and are different for each role. The real difficulty of this fight is making judgement calls about when to push or when to back off and die safely. If you play this fight too safe, you actually won't have enough damage from BA'd DPS to kill the boss, but similarly, if your BA'd DPS play too aggressively they can kill all of your DPS early and cause a wipe.
+This fight is not all that difficult - each individual player has fairly basic instructions - it's just that these instructions are precise, and are different for each role. The real difficulty of this fight is making judgement calls about when to risk death to push for more damage, or when to back off and die safely. If you play this fight too safe, you actually won't have enough damage from BA'd DPS to kill the boss, but similarly, if your BA'd DPS play too aggressively they can kill all of your DPS early and cause a wipe.
+
+---
 
 {: .blacktrial }
 > When Black is active, whomever has BA with the highest threat will be rooted in place. The strategy mentioned above is basically designed around having a static tank anyway, so this shouldn't really be much of a difference.
