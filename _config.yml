@@ -4,6 +4,7 @@ theme: just-the-docs
 
 url: https://yttrium-tyclief.github.io/sod-guides/
 color_scheme: dark
+permalink: /:categories/:year/:month/:day/:title
 
 plugins:
   - jekyll_bootstrap5_tabs
