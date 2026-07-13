@@ -6,7 +6,7 @@ nav_order: 5
 subtitle: Baron Geddon
 ---
 
-# [Baron Geddon](https://www.wowhead.com/classic/npc=228431)
+# [Baron Geddon](https://www.wowhead.com/classic/npc=228433)
 *Last updated: 7/12/26*
 
 Here are the abilities to watch for:

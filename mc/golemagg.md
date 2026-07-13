@@ -6,7 +6,7 @@ nav_order: 8
 subtitle: Golemagg
 ---
 
-# [Golemagg the Incinerator](https://www.wowhead.com/classic/npc=228431)
+# [Golemagg the Incinerator](https://www.wowhead.com/classic/npc=228435)
 *Last updated: 7/12/26*
 
 Here are the abilities to watch for:

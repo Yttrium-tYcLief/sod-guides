@@ -6,7 +6,7 @@ nav_order: 10
 subtitle: Ragnaros
 ---
 
-# [Ragnaros](https://www.wowhead.com/classic/npc=228431)
+# [Ragnaros](https://www.wowhead.com/classic/npc=228438)
 *Last updated: 7/12/26*
 
 Ragnaros is not a difficult fight, but it's a very complicated one. The majority of your time on this encounter will be spent positioning pre-pull. If you have trouble in this fight, most of those problems can be fixed with better pre-pull preparation.

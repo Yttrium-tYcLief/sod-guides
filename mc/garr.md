@@ -6,7 +6,7 @@ nav_order: 4
 subtitle: Garr
 ---
 
-# [Garr](https://www.wowhead.com/classic/npc=228431)
+# [Garr](https://www.wowhead.com/classic/npc=228432)
 *Last updated: 7/12/26*
 
 Here are the abilities to watch for:

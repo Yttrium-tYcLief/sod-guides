@@ -6,7 +6,7 @@ nav_order: 9
 subtitle: Majordomo Executus
 ---
 
-# [Majordomo Executus](https://www.wowhead.com/classic/npc=228431)
+# [Majordomo Executus](https://www.wowhead.com/classic/npc=228437)
 *Last updated: 7/12/26*
 
 Another Flamewaker fight, but with some actual mechanics.

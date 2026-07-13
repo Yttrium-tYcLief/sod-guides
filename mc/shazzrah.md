@@ -6,7 +6,7 @@ nav_order: 6
 subtitle: Shazzrah
 ---
 
-# [Shazzrah](https://www.wowhead.com/classic/npc=228431)
+# [Shazzrah](https://www.wowhead.com/classic/npc=228434)
 *Last updated: 7/12/26*
 
 Shazzrah is a Flamewaker, but does not have adds like a standard Flamewaker fight.
