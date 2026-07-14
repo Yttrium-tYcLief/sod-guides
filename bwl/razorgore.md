@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Razorgore
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 1
 ---
-# Razorgore
+# [Razorgore](https://www.wowhead.com/classic/npc=12435/)
 *Last updated: 7/12/26*
 
 Razorgore is more of an encounter than a boss fight, as the first phase is actually a holdout mission against endless spawns of trash. In order to transition to Phase 2 where you actually fight the boss, one player needs to utilize the Orb of Domination object to mind control Razorgore himself. They then must use his abilities to fight trash and destroy the 30 eggs spread randomly around the room (using an ability on Razorgore's action bar). You must also protect Razorgore from the adds; if he dies to them, he will wipe the encounter. Once all of the eggs are destroyed, the adds will stop spawning and Razorgore will turn hostile, and you'll need to kill him instead.

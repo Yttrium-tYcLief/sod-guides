@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Broodlord Lashlayer
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 3
 subtitle: Boss 3
 ---
-# Broodlord Lashlayer
+# [Broodlord Lashlayer](https://www.wowhead.com/classic/npc=12017/)
 *Last updated: 7/12/26*
 
 He's no longer a complete loot piñata! Now he's just *mostly* one.

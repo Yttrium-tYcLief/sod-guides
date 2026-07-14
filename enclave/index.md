@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Scarlet Enclave
-nav_order: 3
+title: Scarlet Enclave (20)
+nav_order: 8
 ---
 
-Scarlet Enclave is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
+Scarlet Enclave in Season of Discovery is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
 
 There is only one preset difficulty level for Scarlet Enclave.
 

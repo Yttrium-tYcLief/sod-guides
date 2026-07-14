@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boss 5
-parent: Scarlet Enclave
+parent: Scarlet Enclave (20)
 nav_order: 8
 subtitle: Boss 5
 ---

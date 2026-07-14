@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baron Geddon
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 5
 subtitle: Baron Geddon
 ---

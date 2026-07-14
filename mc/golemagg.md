@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Golemagg
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 8
 subtitle: Golemagg
 ---

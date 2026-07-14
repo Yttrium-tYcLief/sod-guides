@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Ebonroc & Flamegor
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 5
 ---
-# Twin Drakes (Ebonroc & Flamegor)
+# Twin Drakes ([Ebonroc](https://www.wowhead.com/classic/npc=14601) & [Flamegor](https://www.wowhead.com/classic/npc=11981))
 *Last updated: 7/12/26*
 
 This one is completely different from Era, and is identical to SoM, but it's not overly difficult. It's just a 2-boss version of Four Horseman from Naxx. The bosses should be tanked in opposite sides of the room. Ebonroc casts [**Brand of Shadow**](https://www.wowhead.com/classic/spell=368515/brand-of-shadow) and Flamegor casts [**Brand of Flame**](https://www.wowhead.com/classic/spell=368521/brand-of-flame). These put stacking debuffs on all players in a 50-yard radius around them that causes you to take exponentially more damage each time it stacks. These stacks will cause 250, 500, 1000, 2000, 4000, then 8000 damage for 1-6 stacks, respectively. The only way to drop stacks is to get far enough away from each respective boss.

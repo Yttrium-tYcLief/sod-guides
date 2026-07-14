@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sulfuron Harbinger
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 7
 subtitle: Sulfuron Harbinger
 ---

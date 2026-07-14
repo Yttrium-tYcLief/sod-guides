@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Majordomo Executus
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 9
 subtitle: Majordomo Executus
 ---

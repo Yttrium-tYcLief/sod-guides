@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Vaelastrasz
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 2
 ---
-# Vaelastrasz
+# [Vaelastrasz](https://www.wowhead.com/classic/npc=13020)
 *Last updated: 7/12/26*
 
 Vael is a dragon fight, so the boss will do breaths (tank keeps boss turned away, raid fights from his side), tail swipe, etc. However, Vael is a very unique fight - as soon as the fight begins, Vael will cast a buff on the entire raid that essentially gives you infinite resources - full mana, rage, and energy.

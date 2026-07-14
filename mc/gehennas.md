@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gehennas
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 3
 subtitle: Gehennas
 ---

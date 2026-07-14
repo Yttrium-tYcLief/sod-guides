@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Garr
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 4
 subtitle: Garr
 ---

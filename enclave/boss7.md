@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boss 7
-parent: Scarlet Enclave
+parent: Scarlet Enclave (20)
 nav_order: 12
 subtitle: Boss 7
 ---
@@ -18,7 +18,7 @@ This boss is a much quicker fight than any of the previous ones. It is entirely 
 You will only be attacking Voss during this encounter. She should be tanked in the center of the field. She has very few mechanics herself.
 
 ### [Ambition](https://www.wowhead.com/classic/spell=1232043)
-Periodically, Voss will cast Ambition. She will gain a stack of [Ambitious Pursuit](https://www.wowhead.com/classic/spell=1232051) for each 10% health remaining from each player; each stack buffs her haste by 5%.
+Periodically, Voss will cast Ambition. She will gain a stack of [Ambitious Pursuit](https://www.wowhead.com/classic/spell=1232051) for each 10% health missing from each player; each stack buffs her haste by 5%.
 
 {: .note .fs-3}
 Because almost all raid damage in this fight is entirely avoidable, Ambition is essentially a "mechanics check" that penalizes the tank/healers for any raiders that are slipping up on mechanics.

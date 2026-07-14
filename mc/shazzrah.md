@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shazzrah
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 6
 subtitle: Shazzrah
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lucifron
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 1
 subtitle: Lucifron
 ---
@@ -11,7 +11,7 @@ subtitle: Lucifron
 
 This is a traditional Flamewaker fight.
 
-Most Flamewaker fights share a central theme - a primary boss (Lucifron, in this case) is joined by a number of lesser Flamewaker adds.
+Most Flamewaker fights share a central theme - a primary boss (Lucifron, in this case) is joined by a number of lesser Flamewaker adds. The adds are typically optional, and it's usually better to focus the boss.
 
 Here are the abilities to watch for:
 
@@ -28,7 +28,7 @@ Here are the abilities to watch for:
 
 On this fight, the main tank should hold Lucifron and the offtank should drag the adds away to minimize the raid getting cleaved. DPS should burn the boss. Any DPS capable of dispelling magic or curses should focus those when they occur.
 
-Realistically, only the decurse is important; 2000 damage was a lot to players in vanilla, but in SoD, assuming you're wearing close to prebis, most players will have well above that amount of health.
+Realistically, only the decurse is critical; 2000 damage was a lot to players in vanilla, but in SoD, assuming you're wearing close to prebis, most players will have well above that amount of health.
 
 ---
 

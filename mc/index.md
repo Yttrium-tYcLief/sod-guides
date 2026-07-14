@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Molten Core
+title: Molten Core (20)
 nav_order: 1
 ---
 
 # Molten Core Guide
 *Last updated: 7/12/26*
 
-MC is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
+Molten Core in Season of Discovery is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
 
 In SoD, MC has three difficulty levels you can switch between - Heat Level 1, 2, and 3. You can change the current Heat Level at will by talking to the NPC at the start of the instance.
 

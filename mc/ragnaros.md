@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ragnaros
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 10
 subtitle: Ragnaros
 ---
@@ -15,7 +15,7 @@ Ragnaros is not a difficult fight, but it's a very complicated one. The majority
 
 First, I'll cover his abilities, then I'll go over how these abilities affect positioning, then I'll explain how his normal phase operates, before finally detailing the Submerge phase.
 
-Most of the changes in SoD only affect Submerge phase.
+Most of the changes in SoD only affect Submerge phase. If you're experienced with killing Ragnaros, [feel free to skip ahead]({{site.url}}{{page.url}}#submerge-phase-mechanics).
 
 ## Normal Phase Mechanics
 
@@ -66,8 +66,6 @@ Once Submerge begins, all players should run south of Ragnaros as shown above. T
 It is extremely helpful to have some way to slow down the Sons once they're in the kill zone, like a Hunter's [Frost Trap](https://www.wowhead.com/classic/spell=409520).
 
 Since Sons of Flame burn the mana of nearby players, melee mana users should stay out of melee range during this phase or risk death. If you have ranged abilities, cast them to help out. Tanks typically run enough FR to protect themselves from this.
-
-Depending on the Heat level, Sons have many additional abilities; see the [Mechanics]({{site.url}}{{page.url}}#submerge-phase-mechanics) section above or the [Heat Level Changes]({{site.url}}{{page.url}}#heat-level-changes) section below.
 
 ## Compared to Vanilla...
 

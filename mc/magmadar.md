@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magmadar
-parent: Molten Core
+parent: Molten Core (20)
 nav_order: 2
 subtitle: Magmadar
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Nefarian
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 7
 ---
-# Nefarian
+# [Nefarian](https://www.wowhead.com/classic/npc=11583/)
 *Last updated: 7/12/26*
 
 ***Equip your goddamn Ony Cloaks before pulling!***

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chromaggus
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 6
 ---
-# Chromaggus
+# [Chromaggus](https://www.wowhead.com/classic/npc=14020/)
 *Last updated: 7/12/26*
 
 *This fight is more similar to Era than SoM. Unfortunate, because I sort of wanted to show folks how cool this fight was in SoM! Oh well.*

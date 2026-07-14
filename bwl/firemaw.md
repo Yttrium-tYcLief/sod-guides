@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Firemaw
-parent: Blackwing Lair
+parent: Blackwing Lair (20)
 nav_order: 4
 ---
-# Firemaw
+# [Firemaw](https://www.wowhead.com/classic/npc=11983/)
 *Last updated: 7/12/26*
 
 Finally, a real challenge! In Era, Firemaw was widely agreed upon to be the hardest boss in the instance. The hardest boss crown might be contested in SoD - but regardless, Firemaw is definitely still tough.

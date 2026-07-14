@@ -136,7 +136,6 @@
 
   @include container;
 
-  @include fs-6;
 
   @include mq(md) {
     padding-top: $sp-2;

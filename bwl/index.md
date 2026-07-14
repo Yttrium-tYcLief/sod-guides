@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blackwing Lair
+title: Blackwing Lair (20)
 nav_order: 2
 ---
 
 # Blackwing Lair Guide
 *Last updated: 7/12/26*
 
-BWL is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
+Blackwing Lair in Season of Discovery is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
 
 In SoD, BWL has five additional difficulty modifiers you can enable. Once enabled, they can be disabled in that lockout, but if you disable one that you've enabled, you *cannot* enable it again for the rest of that lockout.
 

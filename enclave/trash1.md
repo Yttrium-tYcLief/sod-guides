@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trash (before Boss 1)
-parent: Scarlet Enclave
+parent: Scarlet Enclave (20)
 nav_order: 1
 ---
 *Last updated: 4/19/25*
