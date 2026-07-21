@@ -5,21 +5,27 @@ parent: Blackwing Lair (20)
 nav_order: 7
 ---
 # [Nefarian](https://www.wowhead.com/classic/npc=11583/)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
-***Equip your goddamn Ony Cloaks before pulling!***
+{: .warning-title }
+> Shadow Flame Mechanics
+>
+> Many bosses in Blackwing Lair have a breath attack that deals [Shadow Flame](https://www.wowhead.com/classic/spell=22539/shadow-flame) damage. Shadow Flame damage is special because it has a secondary effect: if a player takes Shadow Flame damage and they are not wearing an [Onyxia Scale Cloak](https://www.wowhead.com/classic/item=15138/onyxia-scale-cloak) (or in SoD, alternatively wielding [Suzerain](https://www.wowhead.com/classic/item=224280/suzerain-defender-of-the-dragonflights)), then that player will also receive a [secondary DoT](https://www.wowhead.com/classic/spell=22682/shadow-flame) which will kill them.
+>
+> On Nefarian, on top of his normal breath being Shadow Flame, there is an additional scripted sequence during the Phase 1 -> Phase 2 transition where the entire arena is engulfed in Shadow Flame. The only safe spot is behind his throne, on the elevated platform.
+>
+> **All players must either have an Onyxia Scale Cloak equipped, be hiding behind the throne, or accept near-instant death during this event.**
 
-Nefarian is a multi-phase boss. Phase 1 consists of trash waves. Once enough trash is killed, Nefarian will blanket the entire battlefield with a breath that kills anyone not wearing an Ony cloak.
+Nefarian is a multi-phase boss. Phase 1 consists of trash waves. Once enough trash is killed (42 enemies, tracked with DBM), Nefarian will blanket the entire battlefield with a breath that kills anyone not wearing an Ony cloak.
 
-*This breath does not hit the spot behind his throne - if you forgot your cloak, stay there after the pull until the breath is clear!*
+After breathing on the arena, Nefarian will land and Phase 2 begins. He has traditional dragon mechanics:
 
-After breathing on the raid, Nefarian will land and Phase 2 begins. He's a typical dragon fight - tail whip, frontal breath, etc. His breath requires an Ony Cloak to survive.
+- **[Shadow Flame](https://wowhead.com/classic/spell=22539)**: Conal breath in front of Nefarian, in the direction of whoever is currently tanking him. See Shadow Flame note above. Defensive CDs (both internal and external) and Priest barriers will help tanks survive.
+- **[Tail Lash](https://www.wowhead.com/classic/spell=23364/tail-lash)**: Typical dragon tail whip. Don't stand behind him or you'll be knocked around. This also temporarily [Disarms](https://www.wowhead.com/classic/spell=23365/dropped-weapon) you.
+- **[Veil of Shadow](https://wowhead.com/classic/spell=22687)**: Cast on the tank periodically. This is basically a Mortal Strike, but it can (and should immediately be) **decursed**.
+- **[Bellowing Roar](https://www.wowhead.com/classic/spell=22686/bellowing-roar)**: Raid-wide Fear. The main tank must be consistently buffed with [Fear Ward](https://www.wowhead.com/classic/spell=6346/fear-ward) by Priests, or Nefarian may turn and breath on the raid, which without Ony Cloaks will instantly kill them.
 
-Nefarian will cast [**Veil of Shadow**](https://www.wowhead.com/classic/spell=22687/veil-of-shadow) on the tank periodically. This is basically Mortal Strike, except it can be **decursed**.
-
-He also Fears, so Fear Ward the tank.
-
-At around 20% health he'll resurrect all of the trash that was killed in Phase 1, which will now swarm the raid as undead mobs. Your offtank should round them up and drag them under Nefarian, where the raid can cleave them down.
+At around 20% health, Nefarian will resurrect all of the trash that was killed in Phase 1, which will now swarm the raid as undead mobs. Your offtank should round them up and drag them under the boss, where the raid can cleave them down.
 
 ## Class Calls
 
@@ -125,7 +131,7 @@ Once Phase 2 has begun, every 30 seconds, Nef will pick a random class (any clas
 
 ---
 
-Once Nefarian is dead, additional chests will spawn near his throne with any bonus loot applicable to you mentioned at the start of this guide.
+Once Nefarian is dead, additional chests will spawn near his throne with any bonus loot applicable to you [mentioned at the start of this guide]({{site.url}}/bwl/#loot).
 
 ---
 

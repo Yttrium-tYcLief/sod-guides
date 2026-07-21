@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Blackwing Lair Guide
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
 Blackwing Lair in Season of Discovery is a weekly lockout (resets Tuesday). It's tuned for 20 players, but accepts up to 40 players. Loot does not change based on player count, which means the more players you bring, the easier it is to kill each boss, but the less loot each player will receive on average.
 
@@ -19,12 +19,20 @@ These difficulty modifiers are 'Trials' of the 5 dragonflights: Red, Blue, Green
 * **[Bronze](https://www.wowhead.com/classic/spell=466071)**: Time will randomly slow down and speed up. *Alters movement speed raid-wide. This can be meaningless, beneficial, or it could kill you at critical moments on some fights, especially when combined with other trials.*
 * **[Black](https://www.wowhead.com/classic/spell=467047)**: Enables additional boss-specific mechanics, see Black Trial sections within boss guides.
 
+## Loot
+
 Each week, there will also be a specific trial that is considered the 'bonus' trial for that week. Having it enabled for all fights will give you additional rewards (on top of the per-trial bonus) once you kill Nefarian.
 
+{: .tip .fs-3 }
+The color of the weekly bonus trial can be ascertained by looking at the color of the whelp NPC located next to Victor Nefriendius at the start of the raid.
+
 Upon killing Nefarian, up to three additional chests may spawn, alongside Nef's loot:
-3. **Favored Riches:** If you have the weekly bonus trial active, this chest will spawn with 2 items.
-1. **Chromatic Stash/Supplies/Hoard:** If you have at least 1 trial active, this chest will spawn with 2, 4, or 5 items depending upon if you had 1, 2, or 3+ trials active for all fights in the instance. *There is no additional reward in this chest for having 4 or 5 trials active. If you have 3+ trials active, weapons in this chest will also have the Shadowflame cosmetic appearance.*
-2. **Shadowflame Cache:** If you have 3+ total trials active, and the weekly bonus is one of them, this chest will spawn with 4 items and some Elementium Ore. *Weapons in this chest will also have the Shadowflame cosmetic appearance.*
+1. **Favored Riches:** If you have the weekly bonus trial active, this chest will spawn with 2 items.
+2. **Chromatic Stash/Supplies/Hoard:** If you have at least 1 trial active, this chest will spawn with 2, 4, or 5 items depending upon if you had 1, 2, or 3+ trials active for all fights in the instance.
+  * *There is no additional reward in this chest for having 4 or 5 trials active.*
+  * *If you have 3+ trials active, weapons in this chest will also have the Shadowflame cosmetic appearance.*
+3. **Shadowflame Cache:** If you have 3+ total trials active, and the weekly bonus is one of them, this chest will spawn with 4 items and some Elementium Ore.
+  * *Weapons in this chest will also have the Shadowflame cosmetic appearance.*
 
 So for instance...
 * If the weekly trial is Blue and you have Blue, Bronze, and Black enabled for the whole instance, you will get all 3 chests, and the Chromatic chest will have the maximum of 5 Shadowflame items in it.

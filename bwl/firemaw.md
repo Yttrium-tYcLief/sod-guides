@@ -5,19 +5,26 @@ parent: Blackwing Lair (20)
 nav_order: 4
 ---
 # [Firemaw](https://www.wowhead.com/classic/npc=11983/)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
-Finally, a real challenge! In Era, Firemaw was widely agreed upon to be the hardest boss in the instance. The hardest boss crown might be contested in SoD - but regardless, Firemaw is definitely still tough.
+Finally, a real challenge! In Era, Firemaw was widely agreed upon to be the hardest boss in the instance. The hardest boss crown might be contested in SoD - but regardless, Firemaw is still tough.
 
-He has a number of mechanics:
+{: .warning-title .fs-3 }
+> Shadow Flame Mechanics
+>
+> Many bosses in Blackwing Lair have a breath that deals [Shadow Flame](https://www.wowhead.com/classic/spell=22539/shadow-flame) damage. Shadow Flame damage is special because it has a secondary effect: if a player takes Shadow Flame damage and they are not wearing an [Onyxia Scale Cloak](https://www.wowhead.com/classic/item=15138/onyxia-scale-cloak) (or in SoD, alternatively wielding [Suzerain](https://www.wowhead.com/classic/item=224280/suzerain-defender-of-the-dragonflights)), then that player will also receive a [secondary DoT](https://www.wowhead.com/classic/spell=22682/shadow-flame) which will kill them.
+>
+> Tanks must be sure to equip their cloaks before pulling!
+
+Firemaw has a number of mechanics:
 
 - **[Flame Buffet](https://wowhead.com/classic/spell=23341)**: Periodically, Firemaw will apply stacks of Flame Buffet to everyone in line of sight of him. Flame Buffet deals a burst of damage upon application, and increases fire damage taken by 150. This stacks, with you taking successively more damage each stack. The only way to cleanse this is to break line of sight and have it fall off after 10 seconds. Having fire resist gear will help you resist applications of Flame Buffet whenever they go out, and having enough of it will actually allow you to stay 'in' all the time.
 - **[Wing Buffet](https://wowhead.com/classic/spell=23339)**: Firemaw will do a knockback in a cone in front of him, sort of like a breath. It deals a little bit of damage but more importantly, it drops threat. Tanks will need to alternate picking up the boss after each cast of Wing Buffet.
-- **[Shadow Flame](https://wowhead.com/classic/spell=22539)**: Conal breath in front of Firemaw. Tanks must wear an Onyxia Scale Cloak or else this ability will kill them. Defensive CDs (both internal and external) and priest bubbles will help them survive.
+- **[Shadow Flame](https://wowhead.com/classic/spell=22539)**: Conal breath in front of Firemaw, in the direction of whoever is currently tanking him. See Shadow Flame note above. Defensive CDs (both internal and external) and Priest barriers will help tanks survive.
 
 In SoD, there's a new mechanic too, borrowed from SoM:
 
-- **[Static Electricity](https://wowhead.com/classic/spell=366305)**: Each time you take damage (melees on tanks, but for most raiders this aligns with Flame Buffet stacks), you will also receive a stack of Static Electricity. When you have 10 stacks of Static you will 'discharge' your accumulated stacks, damaging nearby players. Once you've reached 8 or so, you should run to the designated "discharge zone", which is still within sight of Firemaw to ensure you receive 10 stacks and 'discharge' while not bombing the raid. The damage dealt by this discharge is survivable, but it can cascade if too many bombs hit too many players at once. Static charges do not go away when Flame Buffet stacks are dropped.
+- **[Static Electricity](https://wowhead.com/classic/spell=366305)**: Each time you take damage (melees on tanks, but for most raiders this occurs with Flame Buffet stacks), you will also receive a stack of Static Electricity. When you have 10 stacks of Static Electricity you will 'discharge' your accumulated stacks, damaging nearby players. Once you've reached 8 or so, you should run to the designated "discharge zone", which is still within sight of Firemaw to ensure you receive 10 stacks and 'discharge' while not bombing the raid. The damage dealt by this discharge is survivable, but it can cascade if too many bombs hit too many players at once. Static charges do not go away when Flame Buffet stacks are dropped.
 
 ## Positioning
 
