@@ -7,7 +7,7 @@ subtitle: Lucifron
 ---
 
 # [Lucifron](https://www.wowhead.com/classic/npc=228429)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
 This is a traditional Flamewaker fight.
 
@@ -38,11 +38,11 @@ Realistically, only the decurse is critical; 2000 damage was a lot to players in
 {: .heat1 .fs-3}
 > *Compared to Vanilla:*
 > - In SoD there are 3 adds instead of 2.
-> - The adds will revive unless all 3 are killed simultaneously (like the nearby Core Hound packs).
 
 {: .heat2 .fs-3}
 > *In addition to needing 96 Fire Resist:*
 > - **[Fired Up](https://www.wowhead.com/classic/spell=460912)**: The adds will constantly heal themselves.
+> - The adds will revive unless all 3 are killed simultaneously (like the nearby Core Hound packs).
 
 {: .heat3 .fs-3}
 > *In addition to needing 226 Fire Resist:*

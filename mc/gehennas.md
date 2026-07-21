@@ -7,7 +7,7 @@ subtitle: Gehennas
 ---
 
 # [Gehennas](https://www.wowhead.com/classic/npc=228431)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
 Another Flamewaker fight.
 
@@ -41,10 +41,10 @@ For the curse, everyone capable (including DPS) must decurse the tank and player
 {: .heat1 .fs-3}
 > *Compared to Vanilla:*
 > - In SoD there are 4 adds instead of 2.
-> - The adds will revive unless all 4 are killed simultaneously (like Core Hound packs).
 
 {: .heat2 .fs-3}
 > *In addition to needing 96 Fire Resist:*
+> - The adds will revive unless all 4 are killed simultaneously (like Core Hound packs).
 > - Shadow Bolt does less damage, but is cast at random players rather than threat-based.
 > - Gehennas' Curse prevents *all* healing rather than reducing by 75%.
 

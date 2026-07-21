@@ -7,7 +7,7 @@ subtitle: Ragnaros
 ---
 
 # [Ragnaros](https://www.wowhead.com/classic/npc=228438)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
 Ragnaros is not a difficult fight, but it's a very complicated one. The majority of your time on this encounter will be spent positioning pre-pull. If you have trouble in this fight, most of those problems can be fixed with better pre-pull preparation.
 
@@ -83,7 +83,7 @@ There's a few things to keep in mind about Vanilla mechanics that play out a lit
 {: .heat1 .fs-3}
 > *Compared to Vanilla:*
 > - Rather than only submerging after 3 minutes, Ragnaros will also Submerge when he reaches 50% health, ensuring at least one Submerge phase per fight.
-> - When Ragnaros' health drops below 15%, he will start spawning Sons of Flame for the rest of the fight. These should be banished or rounded up by the off-tank to ensure they don't run rampant killing your healers.
+> - When Ragnaros' health drops below 25%, he will start spawning Sons of Flame for the rest of the fight. These should be banished or rounded up by the off-tank to ensure they don't run rampant killing your healers.
 
 {: .heat2 .fs-3}
 > *In addition to needing 96 Fire Resist:*

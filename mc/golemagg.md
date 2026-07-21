@@ -7,7 +7,7 @@ subtitle: Golemagg
 ---
 
 # [Golemagg the Incinerator](https://www.wowhead.com/classic/npc=228435)
-*Last updated: 7/12/26*
+*Last updated: 7/21/26*
 
 Here are the abilities to watch for:
 
@@ -35,10 +35,11 @@ Be aware that unlike Vanilla, the Core Rager's Mangle (on all Heat levels) will 
 {: .heat1 .fs-3}
 > *Compared to Vanilla:*
 > - Instead of casting Earthquake at 10% health, Golemagg now casts it randomly throughout the fight.
+> - Boulders will fall from the sky randomly throughout the fight; they are an instant kill if you don't dodge them.
 
 {: .heat2 .fs-3}
 > *In addition to needing 96 Fire Resist:*
-> - Boulders will fall from the sky randomly throughout the fight; they are an instant kill if you don't dodge them.
+> - No additional changes.
 
 {: .heat3 .fs-3}
 > *In addition to needing 226 Fire Resist:*
